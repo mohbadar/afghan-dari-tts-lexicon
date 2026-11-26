@@ -1,0 +1,440 @@
+# grammar/pronouns
+من|man
+تو|to|n=Afghan to (not tu)
+او|u|n=long u
+ما|mā
+شما|shomā
+آنها|ānhā|c=unhā
+ایشان|ishān
+این|in
+آن|ān|c=un
+اینها|inhā
+همین|hamin
+همان|hamān|c=hamun
+خودم|khodom
+خودت|khodet
+خودش|khodesh
+خود|khod
+مال من|māl-e man
+مرا|marā|c=mara
+ترا|torā|c=tura|p
+او را|u rā|c=ura
+کسی|kasē|a=kasi
+چیزی|chizē|a=chizi
+یکی|yakē|a=yaki
+هر|har
+هر کدام|har kodām
+# grammar/prepositions_conjunctions
+به|ba|n=Afghan ba (not be)
+در|dar|n=dup: in/door
+با|bā
+بی|bē
+برای|barāy|c=barē|n=Kabuli barē
+بخاطر|ba khātir|a=ba khāter
+بالای|bālāy|c=bālē
+زیر|zēr|n=majhul ē
+پیش|pēsh|n=dup
+پشت|posht|n=dup
+بین|bayn
+میان|miyān
+نزد|nazd
+طرف|taraf
+سوی|sōy
+مثل|mesl
+مانند|mānand
+بدون|bedun
+غیر از|ghayr az
+تا که|tā ke
+و|wa|a=o|n=connective -o- in speech
+یا|yā
+اما|ammā
+ولی|wale
+لیکن|lēkin
+اگر|agar|c=aga
+که|ke|a=ki
+چون|chun
+چونکه|chunke
+زیرا|zērā
+پس|pas|n=dup
+هم|ham
+نیز|niz
+حتی|hattā
+بلکه|balke
+یعنی|yani
+خو|khō|n=Kabuli discourse particle
+دیگه|dēga|n=colloquial spelling of دیگر
+# adjectives/general
+کلان|kalān|n=Afghan big
+بزرگ|bozorg
+خورد|khord|n=Afghan small
+کوچک|kōchak
+خرد|khord
+دراز|derāz
+قد بلند|qad-boland
+بلند|boland
+کوتاه|kōtā
+پست|past|n=low; homograph post (mail)
+پهن|pahn
+تنگ|tang
+فراخ|farākh|n=Afghan wide
+چاق|chāq
+لاغر|lāghar
+ضخیم|zakhim
+باریک|bārik
+سنگین|sangin
+سبک|sabok
+نو|naw|n=Afghan naw (not now)
+کهنه|kohna
+جدید|jadid
+قدیم|qadim
+قدیمی|qadimi
+پیر|pir|n=dup
+جوان|jawān|n=dup
+زیبا|zibā
+مقبول|maqbul|n=Afghan beautiful
+قشنگ|qashang
+زشت|zesht
+بدرنگ|badrang|n=Afghan ugly
+خوب|khub|n=dup
+بد|bad
+بهتر|behtar
+بدتر|badtar
+بهترین|behtarin
+پاک|pāk
+کثیف|kasif
+چتل|chatal|n=Afghan dirty
+تمیز|tamiz
+خشک|khoshk
+تر|tar
+مرطوب|martub
+گرم|garm|n=dup
+سرد|sard|n=dup
+داغ|dāgh
+نرم|narm
+سخت|sakht
+آسان|āsān
+مشکل|moshkel
+ساده|sāda
+پیچیده|pēchida
+آرام|ārām|n=dup
+پر|por
+خالی|khāli
+باز|bāz|n=dup: open
+بسته|basta|n=dup: closed
+روشن|rōshan
+تاریک|tārik
+تیره|tēra
+پررنگ|porrang
+کمرنگ|kamrang
+زیاد|ziyād|n=dup
+کم|kam|n=dup
+فراوان|farāwān
+کافی|kāfi
+لازم|lāzem
+مهم|mohem
+ضروری|zaruri
+ممکن|momken
+ناممکن|nāmomken
+راحت|rāhat
+ناراحت|nārāhat
+خوشحال|khoshhāl
+خفه|khafa|n=Afghan upset/sad
+غمگین|ghamgin
+عصبانی|asabāni
+قهر|qahr|n=Afghan angry
+مانده|mānda|n=Afghan tired
+خسته|khasta
+بیمار|bimār
+سالم|sālem
+زنده|zenda
+مرده|morda
+پولدار|puldār
+ثروتمند|sarwatmand
+غریب|gharib|n=Afghan poor
+فقیر|faqir
+بیچاره|bēchāra
+مهربان|mehrabān
+بداخلاق|badakhlāq
+خوش‌اخلاق|khoshakhlāq
+هوشیار|hōshyār
+لایق|lāyeq|n=Afghan clever/capable
+تنبل|tanbal
+زرنگ|zerang
+ترسو|tarsu
+دلیر|dalēr
+شجاع|shojā
+راستگو|rāstgō
+دروغگو|dorōghgō
+مودب|moaddab
+بیادب|bēadab
+صادق|sādeq
+امین|amin
+ارزان|arzān|n=dup
+گران|gerān|n=dup
+تازه|tāza|n=dup
+پوسیده|pōsida
+خراب|kharāb
+جور|jōr|n=Afghan well/fixed
+سالم و جور|sālem-o jōr
+درست|dorost|n=dup
+صحیح|sahih
+غلط|ghalat|n=dup
+اصلی|asli
+تقلبی|taqallobi
+مشهور|mash-hur
+معروف|maruf
+خاص|khās
+عام|ām
+عمومی|omumi
+خصوصی|khosusi
+دولتی|dawlati
+شخصی|shakhsi
+تنها|tanhā|n=dup
+مجبور|majbur
+آزاد|āzād
+مصروف|masruf|n=Afghan busy
+فارغ|fāregh
+آماده|āmāda
+تیار|tayār|n=Afghan ready
+حاضر|hāzer
+غایب|ghāyeb
+دیر|dēr|n=dup
+زود|zud|n=dup
+سریع|sari
+کند|kond
+عجیب|ajib
+عادی|ādi
+خطرناک|khatarnāk
+امن|amn
+مفید|mofid
+مضر|mozer
+مزه‌دار|mazadār|n=dup
+بسیار خوب|besyār khub|n=dup
+# adjectives/colors
+سفید|safēd|n=Afghan majhul ē
+سیاه|siyā|n=final h silent
+سرخ|sorkh
+زرد|zard
+سبز|sabz
+آبی|ābi
+نیلی|nili
+خاکستری|khākestari
+نصواری|naswāri|n=Afghan brown
+گلابی|golābi
+بنفش|banafsh
+نارنجی|nāranji
+طلایی|telāyi
+نقره‌ای|noqrayi
+رنگه|ranga
+# adverbs/general
+اینطور|intōr
+آنطور|āntōr|c=untōr
+همینطور|hamintōr
+خوب‌تر|khubtar
+تقریباً|taqriban
+کاملاً|kāmelan
+اصلاً|aslan
+هرگز نه|hargez na
+فوراً|fawran
+آهسته آهسته|āhesta āhesta
+یک‌جا|yakjā
+جدا|jodā
+باهم|bāham
+تنهایی|tanhāyi
+بیشتر|bēshtar
+کمتر|kamtar
+خیلی|khayli
+بسیار زیاد|besyār ziyād
+یک دفعه|yak dafa
+دفعه|dafa
+بار|bār
+همیشه|hamēsha|n=dup
+باز هم|bāz ham|n=dup
+البته که|albatta ke
+خصوصاً|khososan
+عموماً|omuman
+اول|awwal|n=dup
+آخر|ākher|n=dup
+بعد از|bad az
+قبل از|qabl az
+هرجا|harjā
+هیچ‌جا|hēchjā
+یک‌جای|yakjāy
+پیش‌تر|pēshtar
+عقب‌تر|aqabtar
+نزدیک‌تر|nazdiktar
+دورتر|durtar
+# emotions/general
+محبت|mohabbat
+عشق|eshq
+دوستی|dōsti
+نفرت|nefrat
+ترس|tars
+خوشی|khoshi
+غم|gham
+خنده|khanda
+گریه|gerya
+امید|omēd|n=Afghan majhul ē
+ناامیدی|nāomēdi
+آرزو|ārzu
+شرم|sharm
+شرمندگی|sharmandagi
+غرور|ghorur
+احترام|ehterām
+صبر|sabr
+حوصله|hawsela
+تشویش|tashwish|n=dup
+آرامش|ārāmesh
+دلتنگی|deltangi
+خیال|khiyāl
+فکر|fekr
+باور|bāwar
+یاد|yād
+# society_culture/general
+مسجد|masjed
+دین|din
+اسلام|eslām
+مسلمان|mosalmān
+قرآن|qorān
+دعا|doā
+ثواب|sawāb
+گناه|gonā
+مهمانی|mēhmāni
+خیرات|khayrāt
+فاتحه|fāteha
+جنازه|janāza
+قبرستان|qabrestān
+فرهنگ|farhang
+رسم|rasm
+رواج|rawāj
+موسیقی|musiqi
+آهنگ|āhang
+آواز|āwāz
+رقص|raqs
+اتن|atan|n=Afghan national dance
+بزکشی|bozkashi
+کرکت|krikat
+فوتبال|futbāl
+والیبال|wālibāl
+ورزش|warzesh|n=Afghan w
+بازی|bāzi
+بازیکن|bāzikon
+تیم|tim
+مسابقه|mosābeqa
+بادبادک|bādbādak
+گدی‌پران|godiparān|n=Afghan kite flying
+کاغذپران|kāghazparān
+تماشا|tamāshā
+سینما|sinamā
+فلم|felm|n=Afghan film
+داستان|dāstān
+قصه|qessa
+شعر|sher
+تاریخی|tārikhi
+جشن|jashn
+سالگره|sālgera
+تحفه|tohfa|n=Afghan gift
+هدیه|hadiya
+صلح|solh
+جنگ|jang
+آزادی|āzādi
+استقلال|esteqlāl
+وطن|watan
+کشور|keshwar|n=Afghan keshwar (not keshvar)
+شهر|shahr
+شهری|shahri
+روستا|rōstā
+دهات|dehāt|n=Afghan countryside
+اطراف|atrāf
+همشهری|hamshahri
+# directions/general
+شمال|shamāl
+جنوب|jonub
+شرق|sharq
+غرب|gharb
+راست دست|rāst dast
+چپ دست|chap dast
+مستقیم|mostaqim
+سیده|sēda|n=Afghan straight
+دور بزن|dawr bezan
+گوشه|gōsha
+کنار|kenār
+وسط|wasat
+مقابل|moqābel
+پهلو|pahlu
+آدرس|ādres
+نشانی|neshāni
+نقشه|naqsha
+# expressions/common_phrases
+من نمی‌فهمم|man namēfahmom|c=man namēfāmom
+آهسته‌تر گپ بزنید|āhestatar gap bezanēd|c=āhestatar gap bezanēn
+یک بار دیگر بگویید|yak bār-e dēgar begōyēd|c=yak bār dēga begēn|p
+این چند است|in chand ast|c=i chand as
+این چیست|in chist|c=i chis
+آن چیست|ān chist|c=u chis
+کجا هستی|kojā hasti|c=kojā asti
+کجا می‌روی|kojā mērawi|c=kojā mēri
+خانه می‌روم|khāna mērawom|c=khāna mērom
+بازار رفتم|bāzār raftom
+نان خوردی|nān khordi|n=Afghan 'did you eat'
+نان خوردم|nān khordom
+چای بیاور|chāy biyāwar|c=chāy biyār
+آب بده|āb bedeh|c=āb beti|p
+کمک کنید|komak konēd|c=komak konēn
+کمک کن|komak kon
+پولیس را صدا کن|polis-rā sedā kon|c=polis ra sedā kon
+داکتر را صدا کنید|dāktar-rā sedā konēd|c=dāktar ra sedā konēn
+مریض هستم|mariz hastom|n=dup
+درد دارم|dard dārom
+سرم درد می‌کند|sarom dard mēkonad|c=sarom dard mēkona
+شکمم درد می‌کند|shekamom dard mēkonad|c=shekamom dard mēkona|p
+گم شدم|gom shodom
+راه را گم کردم|rāh-rā gom kardom|c=rā ra gom kardom
+تیلفون کن|tēlefōn kon
+تیلفونت را بده|tēlefōnet-rā bedeh|c=tēlefōneta beti|p
+به من بگو|ba man bogo|c=ba man bogu|p
+خبر بده|khabar bedeh|c=khabar beti|p
+وقت ندارم|waqt nadārom
+وقت دارم|waqt dārom
+حالا می‌آیم|hālā mēāyom|c=ālē mēyom
+فردا می‌بینمت|fardā mēbinamet|c=sabā mēbinomet|p
+بعداً گپ می‌زنیم|badan gap mēzanēm
+خیر باشد|khayr bāshad|c=khayr bāsha
+تشکر از شما|tashakkor az shomā
+از شما تشکر|az shomā tashakkor
+قابل شما را ندارد|qābel-e shomā-rā nadārad|c=qābele shomā ra nadāra
+دست تان درد نکند|dast-etān dard nakonad|c=dastetān dard nakona
+سرتان را درد ندهم|sar-etān-rā dard nadehom|c=saretāna dard nadom|p
+مزاحم نمی‌شوم|mozāhem namēshawom|c=mozāhem namēshom
+بسیار خوشحالم|besyār khoshhālom
+چه گپ شد|che gap shod|c=chi gap shod
+چه شد|che shod|c=chi shod
+هیچ چیز نشد|hēch chiz nashod
+چه می‌کنی|che mēkoni|c=chi mēkoni
+چه کار می‌کنی|che kār mēkoni|c=chi kār mēkoni
+کار دارم|kār dārom
+کار ندارم|kār nadārom
+بیا برویم|biyā berawēm|c=biyā berēm
+برویم|berawēm|c=berēm
+بنشین|beneshin|c=beshi|p
+بخیر رسیدی|bakhayr rasidi
+خوش گذشت|khosh gozasht|n=dup
+خدا مهربان است|khodā mehrabān ast|n=dup
+این خوب است|in khub ast|c=i khub as
+آن خوب نیست|ān khub nēst|c=u khub nis
+اینجا بیا|injā biyā
+آنجا برو|ānjā boro|c=unjā boro
+نزدیک است|nazdik ast|c=nazdik as
+دور است|dur ast|c=dur as
+گران است|gerān ast|c=gerān as
+ارزان کن|arzān kon
+آخرش چند|ākheresh chand|c=ākhresh chand
+پیسه ندارم|paysa nadārom
+پول دارم|pul dārom
+بسیار مانده شدم|besyār mānda shodom
+خوابم می‌آید|khāwom mēāyad|c=khāwom mēya
+گرسنه شدم|gorosna shodom|c=goshna shodom
+تشنه شدم|teshna shodom
+بخیر باشی|bakhayr bāshi
+روز خوب|rōz-e khub
+خیر است، پروا ندارد|khayr ast parwā nadārad|c=khayr as parwā nadāra

@@ -1,0 +1,152 @@
+# verbs/to_be
+هستم|hastom|c=astom
+هستی|hasti|c=asti
+است|ast|c=as;-a|n=enclitic -a after consonant in colloquial
+هست|hast|c=as
+هستیم|hastēm|c=astēm
+هستید|hastēd|c=astēn
+هستند|hastand|c=astan
+نیستم|nēstom|c=nistom
+نیستی|nēsti|c=nisti
+نیست|nēst|c=nis
+نیستیم|nēstēm|c=nistēm
+نیستید|nēstēd|c=nistēn
+نیستند|nēstand|c=nistan
+بودم|budom
+بودی|budi
+بود|bud
+بودیم|budēm
+بودید|budēd|c=budēn
+بودند|budand|c=budan
+بودن|budan
+باشم|bāshom|c=bāshom
+باشی|bāshi
+باشد|bāshad|c=bāsha
+باشیم|bāshēm
+باشید|bāshēd|c=bāshēn
+باشند|bāshand|c=bāshan
+باش|bāsh
+# verbs/to_have
+داشتن|dāshtan
+دارم|dārom
+داری|dāri
+دارد|dārad|c=dāra
+داریم|dārēm
+دارید|dārēd|c=dārēn
+دارند|dārand|c=dāran
+ندارم|nadārom
+نداری|nadāri
+ندارد|nadārad|c=nadāra
+نداریم|nadārēm
+ندارید|nadārēd|c=nadārēn
+ندارند|nadārand|c=nadāran
+داشتم|dāshtom
+داشتی|dāshti
+داشت|dāsht
+داشتیم|dāshtēm
+داشتید|dāshtēd|c=dāshtēn
+داشتند|dāshtand|c=dāshtan
+نداشتم|nadāshtom
+نداشت|nadāsht
+# verbs/progressive_and_future
+دارم می‌روم|dārom mērawom|c=dārom mērom
+دارم می‌آیم|dārom mēāyom|c=dārom mēyom
+دارم کار می‌کنم|dārom kār mēkonom
+دارد می‌آید|dārad mēāyad|c=dāra mēya
+خواهم رفت|khāhom raft|c=khāhom raft|n=formal future
+خواهد آمد|khāhad āmad
+می‌خواهم بروم|mēkhāhom berawom|c=mēkhāyom berom|p
+می‌خواهم بخورم|mēkhāhom bokhorom|c=mēkhāyom bokhorom|p
+می‌توانم|mētawānom|c=mētānom
+نمی‌توانم|namētawānom|c=namētānom
+باید|bāyad|c=bāyad
+نباید|nabāyad
+شاید بیاید|shāyad biyāyad|c=shāyad biya
+# verbs/subjunctive
+بروم|berawom|c=berom|p
+بروی|berawi|c=beri
+برود|berawad|c=bera
+برویم|berawēm|c=berēm|n=dup
+بکنم|bokonom
+بکند|bokonad|c=bokona
+بگویم|begōyom|c=bogom|p
+بگوید|begōyad|c=boga|p
+بیایم|biyāyom|c=biyāyom
+بیاید|biyāyad|c=biya
+بخورم|bokhorom|c=bokhorom
+بخورد|bokhorad|c=bokhora
+ببینم|bebinom|c=bebinom
+بدهم|bedehom|c=betom|p
+بشوم|beshawom|c=boshom|p
+بنویسم|benawisom|c=benawisom
+# verbs/compound
+کار کردن|kār kardan
+کار می‌کنم|kār mēkonom
+کار می‌کند|kār mēkonat|c=kār mēkona
+کار کردم|kār kardom
+پاک کردن|pāk kardan
+پاک‌کاری|pākkāri|n=Afghan cleaning
+شروع کردن|shoru kardan
+تمام کردن|tamām kardan
+تمام شد|tamām shod
+خلاص شد|khalās shod|n=Afghan 'finished'
+خلاص|khalās
+یاد کردن|yād kardan
+فکر کردن|fekr kardan
+فکر می‌کنم|fekr mēkonom
+گم کردن|gom kardan
+پیدا کردن|paydā kardan
+پیدا کردم|paydā kardom
+باز کردن|bāz kardan
+بسته کردن|basta kardan|n=Afghan close
+روشن کردن|rōshan kardan
+گل کردن|gol kardan|n=Afghan switch off
+خاموش کردن|khāmōsh kardan
+صدا کردن|sedā kardan
+زنگ زدن|zang zadan
+گپ زدن|gap zadan|n=dup
+قدم زدن|qadam zadan
+دست زدن|dast zadan
+انتظار کشیدن|entezār kashidan
+انتظار|entezār
+منتظر|montazer
+کمک کردن|komak kardan
+استفاده کردن|estefāda kardan
+عوض کردن|awaz kardan
+بدل کردن|badal kardan
+جور کردن|jōr kardan|n=Afghan repair
+ترمیم کردن|tarmim kardan
+تیار کردن|tayār kardan
+آماده کردن|āmāda kardan
+حساب کردن|hesāb kardan
+وزن کردن|wazn kardan
+تلاش کردن|talāsh kardan
+کوشش کردن|kōshesh kardan
+زندگی کردن|zendagi kardan
+زندگی|zendagi
+بازی کردن|bāzi kardan
+سفر کردن|safar kardan
+تشریف آوردن|tashrif āwardan
+تشریف بیاورید|tashrif biyāwarēd|c=tashrif biyārēn
+خوش آمدن|khosh āmadan
+خوشم می‌آید|khoshom mēāyad|c=khoshom mēya
+بد آمدن|bad āmadan
+دوست داشتن|dōst dāshtan
+دوست دارم|dōst dārom
+دوستت دارم|dōstat dārom|c=dōstet dārom
+بلد بودن|balad budan
+بلد هستم|balad hastom|c=balad astom
+یاد دارم|yād dārom
+خبر دادن|khabar dādan
+جواب دادن|jawāb dādan
+اجازه دادن|ejāza dādan
+نشان دادن|neshān dādan
+پس دادن|pas dādan
+قرض گرفتن|qarz gereftan
+تصمیم گرفتن|tasmim gereftan
+تصمیم|tasmim
+عکس گرفتن|aks gereftan
+دوش گرفتن|dōsh gereftan
+غسل کردن|ghosl kardan
+آب دادن|āb dādan
+دانه دادن|dāna dādan|n=feed (poultry)

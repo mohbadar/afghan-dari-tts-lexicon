@@ -1,0 +1,739 @@
+# poultry_farming/general
+مرغ|morgh|n=غ voiced uvular fricative gh
+مرغها|morghhā|c=morghā
+مرغ‌ها|morghhā|c=morghā
+مرغداری|morghdāri
+فارم|fārm
+فارم مرغداری|fārm-e morghdāri|c=fārme morghdāri
+فارم مرغ تخمی|fārm-e morgh-e tokhmi
+مرغدار|morghdār
+مالک فارم|mālek-e fārm
+فارمدار|fārmdār
+پرورش مرغ|parwaresh-e morgh
+پرورش|parwaresh
+مرغ تخمی|morgh-e tokhmi|c=morghe tokhmi|n=laying hen
+مرغ تخم‌گذار|morgh-e tokhmgozār
+مرغ گوشتی|morgh-e gōshti|n=broiler
+مرغ وطنی|morgh-e watani|n=local/native hen
+مرغ محلی|morgh-e mahalli
+مرغ خانگی|morgh-e khānagi
+مرغ مادر|morgh-e mādar
+مرغ پیر|morgh-e pir
+مرغ جوان|morgh-e jawān
+پولت|pulet|p|n=pullet loanword
+مرغ نوجوان|morgh-e nawjawān
+خروس|khorōs|n=Afghan majhul ō
+چوچه|chucha|n=Afghan chick (Iranian jūje)
+چوچه‌ها|chuchahā|c=chuchaa
+چوچه یک‌روزه|chucha-ye yakrōza|c=chuchaye yakrōza
+چوچه‌کشی|chuchakashi|n=hatching
+ماشین چوچه‌کشی|māshin-e chuchakashi|n=incubator
+انکوباتور|enkubātor|p
+هچری|hachari|p|n=hatchery loanword
+مرکز چوچه‌کشی|markaz-e chuchakashi
+کرک|kerk|n=broody hen
+مرغ کرک|morgh-e kerk|p
+کرچ|korch|p|n=broody (Iranian kurch); verify Afghan form
+بوقلمون|buqalamun
+فیل‌مرغ|filmorgh|n=Afghan turkey
+مرغابی|morghābi|n=duck
+قاز|qāz
+بودنه|bōdana|n=quail
+کبک|kawk|n=chukar; Kabuli kawk
+کبوترخانه|kawtarkhāna
+پرنده‌گان|parandagān
+طیور|toyur
+ماکیان|mākiyān
+گله|gala|n=flock
+گله مرغ|gala-ye morgh
+تعداد مرغ|tedād-e morgh
+سر مرغ|sar-e morgh|n=head count
+قطعه|qeta|n=piece/head count
+دوره پرورش|dawra-ye parwaresh
+دوره تولید|dawra-ye tawlid
+سن مرغ|senn-e morgh
+هفته‌گی|haftagi
+روزه|rōza|n=dup: -day-old / fasting
+# poultry_farming/breeds
+نسل|nasl
+نژاد|nezhād
+نسل مرغ|nasl-e morgh
+لگهورن|leghōrn|p
+لگهورن سفید|leghōrn-e safēd|p
+رود آیلند|rōd āylend|p
+رود آیلند رد|rōd āylend red|p
+هایلاین|hāylāyn|p
+هایلاین براون|hāylāyn brāwn|p
+لوهمن|lōhman|p
+لوهمن براون|lōhman brāwn|p
+بوونز|bowāns|p
+ایزا براون|izā brāwn|p
+هایسکس|hāyseks|p
+نووژن|nowozhen|p
+شیور|shēwar|p|n=Shaver breed
+کاب|kāb|p|n=Cobb broiler
+راس|rās|p|n=Ross broiler
+مرغ قهوه‌ای|morgh-e qahwayi
+مرغ سفید|morgh-e safēd
+مرغ سیاه|morgh-e siyā
+تخم قهوه‌ای|tokhm-e qahwayi
+تخم سفید|tokhm-e safēd
+دورگه|dōraga|n=hybrid
+هیبرید|hibrid
+اصیل|asil
+مرغ جنگی|morgh-e jangi
+خروس جنگی|khorōs-e jangi
+# poultry_farming/anatomy
+تاج|tāj|n=comb
+ریش مرغ|rēsh-e morgh|p|n=wattle
+منقار|menqār
+نول|nōl|n=Afghan beak colloquial
+پر|par|n=feather
+پرها|parhā
+بال|bāl
+دم|dom|n=tail; homograph dam (breath)
+پنجه مرغ|panja-ye morgh
+چنگال|changāl
+ساق پا|sāq-e pā
+ناخن مرغ|nākhon-e morgh
+چینه‌دان|chinadān|n=crop
+سنگدان|sangdān|n=gizzard
+روده مرغ|rōda-ye morgh
+جگر مرغ|jegar-e morgh
+تخمدان|tokhmdān|n=ovary
+مجرای تخم|majrā-ye tokhm|n=oviduct
+مقعد|maqad
+کلواک|kolōāk|p|n=cloaca
+پوست مرغ|pōst-e morgh
+استخوان سینه|ostokhān-e sina
+کیل|kil|p|n=keel bone
+چشم مرغ|chashm-e morgh
+# poultry_farming/housing_equipment
+مرغدانی|morghdāni|n=hen house
+لانه|lāna
+لانه تخم‌گذاری|lāna-ye tokhmgozāri
+لانه مرغ|lāna-ye morgh
+سالون|sālōn|n=poultry house/shed
+سالون مرغداری|sālōn-e morghdāri
+شیت|shēt|p|n=shed loanword
+گدام دانه|godām-e dāna
+قفس|qafas
+قفس باتری|qafas-e bātri
+سیستم قفس|sistem-e qafas
+پرورش آزاد|parwaresh-e āzād
+بستر|bestar|n=dup: litter/bed
+بستر مرغ|bestar-e morgh
+خاک اره|khāk-e arra|n=sawdust
+پوست شالی|pōst-e shāli|n=rice husk
+کاه|kāh
+کاه گندم|kāh-e gandom
+آبخوری|ābkhōri
+آبخوری نیپل|ābkhōri-ye nipel
+نیپل|nipel
+دانه‌خوری|dānakhōri
+دانخوری|dānkhōri
+آبخوری خودکار|ābkhōri-ye khodkār
+دانه‌خوری خودکار|dānakhōri-ye khodkār
+تانک آب|tānk-e āb
+پایپ|pāyp|n=Afghan pipe
+پایپ آب|pāyp-e āb
+فلتر آب|feltar-e āb
+پمپ|pamp
+پمپ آب|pamp-e āb
+بخاری مرغداری|bokhāri-ye morghdāri
+هیتر|hitar
+هیتر گازی|hitar-e gāzi
+برودر|brudar|p|n=brooder
+مادر مصنوعی|mādar-e masnui
+پکه سالون|pakka-ye sālōn
+پکه تهویه|pakka-ye tahwiya
+تهویه|tahwiya
+هواکش|hawākash
+کلکین سالون|kelkin-e sālōn
+پرده سالون|parda-ye sālōn
+کولر|kular
+کولر آبی|kular-e ābi
+پد خنک‌کننده|pad-e khonakkonanda|p
+ترموستات|termostāt
+ترمامیتر|termāmitar|p
+گروپ سالون|grōp-e sālōn
+روشنایی|rōshanāyi
+برنامه روشنایی|barnāma-ye rōshanāyi
+ساعت روشنایی|sāat-e rōshanāyi
+تایمر|tāymar
+جنراتور|jenerātor|n=Afghan generator
+سولر|sōlar|n=solar panel
+شانه تخم|shāna-ye tokhm|n=egg tray
+شانه|shāna|n=dup: egg tray
+کارتن تخم|kārtan-e tokhm
+تری تخم|trē-ye tokhm|p
+سبد تخم|sabad-e tokhm
+ترازوی تخم|tarāzu-ye tokhm
+ترازوی دیجیتال|tarāzu-ye dijitāl
+ماشین درجه‌بندی تخم|māshin-e darajabandi-ye tokhm
+دستگاه|dastgāh
+تجهیزات|tajhizāt
+وسایل|wasāyel
+سمپاش|sampāsh
+ماشین سمپاشی|māshin-e sampāshi
+فرغون|farghun|n=wheelbarrow
+کراچی دستی|karāchi-ye dasti
+بیلچه|bēlcha
+جاروب|jārub
+حوضچه ضدعفونی|hawzcha-ye zedd-e ofuni
+پاشویه|pāshōya
+دیوار سالون|dēwār-e sālōn
+سقف سالون|saqf-e sālōn
+عایق|āyeq
+عایق‌کاری|āyeqkāri
+# poultry_farming/feed_nutrition
+دانه|dāna|n=Afghan feed (also grain)
+دانه مرغ|dāna-ye morgh|c=dānaye morgh
+خوراک مرغ|khorāk-e morgh
+خوراک|khorāk|n=dup
+دان|dān
+دانه چوچه|dāna-ye chucha
+دانه مرغ تخمی|dāna-ye morgh-e tokhmi
+دانه آغازین|dāna-ye āghāzin|p|n=starter feed
+دانه رشد|dāna-ye roshd|n=grower feed
+دانه تولید|dāna-ye tawlid|n=layer feed
+استارتر|estārtar|p
+گروور|growar|p
+لایر|lāyar|p|n=layer
+پیش‌تخم‌گذاری|pēshtokhmgozāri
+آرد دانه|ārd-e dāna
+دانه پودری|dāna-ye pōdari|n=mash
+دانه پلت|dāna-ye pelet|n=pellet
+پلت|pelet
+کرامبل|krāmbel|p
+جواری مرغ|jawāri-ye morgh
+جواری میده|jawāri-ye mayda|n=ground corn; Afghan mayda
+میده|mayda|n=Afghan fine/ground
+گندم میده|gandom-e mayda
+جو میده|jaw-e mayda
+سویا|soyā
+کنجاره سویا|konjāra-ye soyā
+کنجاره|konjāra
+کنجاره پنبه|konjāra-ye pamba
+کنجاره آفتابپرست|konjāra-ye āftāwparast
+سبوس|sobos
+سبوس گندم|sobos-e gandom
+پودر ماهی|pōdar-e māhi
+پودر گوشت|pōdar-e gōsht
+پودر استخوان|pōdar-e ostokhān
+پودر صدف|pōdar-e sadaf
+صدف|sadaf|n=oyster shell
+سنگ آهک|sang-e āhak
+چونه|chuna|n=Afghan lime
+کنسانتره|konsāntra|p
+پریمیکس|primiks
+مکمل|mokammel
+مکمل غذایی|mokammel-e ghezāyi
+افزودنی|afzudani
+نمک دانه|namak-e dāna
+روغن نباتی|roghan-e nabāti
+پروتین|protin|n=Afghan protin
+انرژی|enarzhi
+کاربوهایدریت|kārbohāydrēt|p
+چربی|charbi
+فایبر|fāybar
+الیاف|alyāf
+اسید امینه|asid-e amina
+متیونین|metiyonin|p
+لایسین|lāysin|p
+ویتامین|witāmin|a=vitāmin|p|n=Afghan w realization varies
+ویتامین آ|witāmin-e ā|a=vitāmin-e ā|p
+ویتامین دی|witāmin-e di|a=vitāmin-e di|p
+ویتامین دی ۳|witāmin-e di sē|p
+ویتامین ای|witāmin-e i|p
+ویتامین کی|witāmin-e kē|p
+ویتامین ب|witāmin-e bē|p
+ویتامین سی|witāmin-e si|p
+ب کمپلکس|bē kompleks|p
+مولتی ویتامین|molti witāmin|p
+منرال|menrāl|p|n=Afghan mineral
+مواد معدنی|mawādd-e madani
+کلسیم|kalsiyam
+فاسفورس|fāsforos
+سودیم|sōdiyam
+پتاسیم|potāsiyam
+آهن|āhan
+روی|ruy|n=zinc; homograph rōy (face)
+زنک|zink|p
+منگنیز|manganiz|p
+مس|mes
+سلنیوم|selenyom|p
+ید|yod
+کولین|kōlin|p
+آنزایم|ānzāym|p
+پروبیوتیک|probāyotik|p
+توکسین‌بایندر|toksin-bāyndar|p
+ضد قارچ دانه|zedd-e qārch-e dāna
+فرمول دانه|formul-e dāna
+جیره|jira|n=ration
+جیره غذایی|jira-ye ghezāyi
+مصرف دانه|masraf-e dāna
+مصرف آب|masraf-e āb
+ضریب تبدیل غذایی|zarib-e tabdil-e ghezāyi|p|n=FCR
+اف سی آر|ef si ār
+آب آشامیدنی|āb-e āshāmidani
+آب پاک|āb-e pāk
+آب کثیف|āb-e kasif
+کلورین|klōrin
+دانه کپک‌زده|dāna-ye kapakzada
+کپک|kapak|n=mould
+پوپنک|pupanak|n=Afghan mould
+افلاتوکسین|aflātoksin|p
+مایکوتوکسین|māykotoksin|p
+# poultry_farming/egg_production
+تخم|tokhm|n=dup
+تخم‌ها|tokhmhā|c=tokhmā
+تخم‌گذاری|tokhmgozāri|n=laying
+تخم کردن|tokhm kardan|n=Afghan 'to lay'
+تخم می‌کند|tokhm mēkonad|c=tokhm mēkona
+تخم نمی‌کند|tokhm namēkonad|c=tokhm namēkona
+تخم کرد|tokhm kard
+تولید|tawlid
+تولید تخم|tawlid-e tokhm|c=tawlide tokhm
+فیصدی تولید|fisadi-ye tawlid|n=Afghan percent (fisadi)
+فیصد|fisad
+فیصدی|fisadi
+درصد|darsad
+اوج تولید|awj-e tawlid
+اوج|awj
+شروع تخم‌گذاری|shoru-ye tokhmgozāri
+کاهش تولید|kāhesh-e tawlid
+افت تولید|oft-e tawlid
+تولید روزانه|tawlid-e rōzāna
+تولید ماهانه|tawlid-e māhāna
+روزانه|rōzāna
+جمع‌آوری تخم|jamāwari-ye tokhm
+جمع کردن تخم|jam kardan-e tokhm
+تخم جمع کردن|tokhm jam kardan
+تخم تازه|tokhm-e tāza
+تخم کهنه|tokhm-e kohna
+تخم شکسته|tokhm-e shekasta
+تخم ترک‌دار|tokhm-e tarakdār
+تخم کثیف|tokhm-e kasif
+تخم نطفه‌دار|tokhm-e notfadār|n=fertile egg
+تخم بی‌نطفه|tokhm-e bēnotfa
+تخم دو زرده|tokhm-e du zarda
+تخم بی‌پوست|tokhm-e bēpōst
+تخم نرم|tokhm-e narm
+تخم خورد|tokhm-e khord|n=small egg
+تخم کلان|tokhm-e kalān
+تخم متوسط|tokhm-e motawasset
+تخم خوراکی|tokhm-e khorāki
+تخم چوچه‌کشی|tokhm-e chuchakashi
+تخم‌خوری|tokhmkhōri|n=egg-eating vice
+پوست تخم|pōst-e tokhm|n=shell
+پوست نازک|pōst-e nāzok
+زرده|zarda
+سفیده|safēda|n=Afghan majhul ē
+رنگ زرده|rang-e zarda
+لکه خون|laka-ye khun|n=blood spot
+لکه گوشتی|laka-ye gōshti
+اتاقک هوا|otāqak-e hawā|p
+کیفیت|kayfiyat
+کیفیت تخم|kayfiyat-e tokhm
+کیفیت پوست|kayfiyat-e pōst
+وزن تخم|wazn-e tokhm
+اندازه تخم|andāza-ye tokhm
+درجه‌بندی|darajabandi
+درجه‌بندی تخم|darajabandi-ye tokhm
+درجه|daraja
+درجه یک|daraja-ye yak|c=daraja yak
+درجه دو|daraja-ye du|c=daraja du
+کاندلینگ|kāndeling|p|n=candling
+نوربینی|nurbini|p
+بسته‌بندی|bastabandi
+بسته‌بندی تخم|bastabandi-ye tokhm
+لیبل|lēbel
+تاریخ تولید|tārikh-e tawlid
+تاریخ انقضا|tārikh-e enqezā
+ذخیره|zakhira
+ذخیره تخم|zakhira-ye tokhm
+سردخانه|sardkhāna
+یخچال تخم|yakhchāl-e tokhm
+نگهداری|negahdāri
+نگهداری تخم|negahdāri-ye tokhm
+حرارت ذخیره|harārat-e zakhira
+رطوبت|rotubat
+انتقال تخم|enteqāl-e tokhm
+ترانسپورت|trānsport
+شکستگی تخم|shekastagi-ye tokhm
+ضایعات|zāyeāt
+تخم‌شویی|tokhmshōyi
+# poultry_farming/health_symptoms
+مریضی مرغ|marizi-ye morgh
+بیماری مرغ|bimāri-ye morgh
+مرغ مریض|morgh-e mariz
+مرغ مرده|morgh-e morda
+تلفات|talafāt|n=mortality
+مرگ و میر|marg-o mir
+مرگ ناگهانی|marg-e nāgahāni
+علامت|alāmat
+علایم|alāyem
+علایم مریضی|alāyem-e marizi
+بی‌اشتهایی|bēeshtehāyi
+کم‌اشتهایی|kameshtehāyi
+اشتها|eshtehā
+پژمردگی|pazhmordagi
+سستی|sosti
+بی‌حالی|bēhāli
+خواب‌آلودگی|khāwālodagi
+پر پریشان|par-e parēshān|p|n=ruffled feathers
+پرریزی|parrēzi|n=feather loss
+پر کندن|par kandan|n=feather pecking
+نول زدن|nōl zadan|n=pecking
+کانیبالیزم|kānibālizm|p
+همنوع‌خواری|hamnawkhāri|p
+لنگیدن|langidan
+لنگی|langi|n=lameness; homograph longi (turban)
+فلج|falaj
+گردن کجی|gardan-kaji|n=torticollis
+کج‌گردنی|kajgardani
+لرزه|larza
+تشنج|tashannoj
+خرخر|khorkhor|n=rattling breath
+نفس‌تنگی|nafastangi
+تنفس|tanaffos
+مشکل تنفسی|moshkel-e tanaffosi
+آبریزش بینی|ābrēzesh-e bini
+آبریزش چشم|ābrēzesh-e chashm
+پف چشم|pof-e chashm
+ورم|waram
+ورم سر|waram-e sar
+ورم صورت|waram-e surat
+اسهال سبز|eshāl-e sabz
+اسهال سفید|eshāl-e safēd
+اسهال خونی|eshāl-e khuni
+مدفوع|madfu
+پیخال|pikhāl|n=poultry droppings
+پیخال آبکی|pikhāl-e ābaki
+تاج کبود|tāj-e kabud
+تاج زرد|tāj-e zard
+تاج رنگ‌پریده|tāj-e rangparida
+کم‌خونی|kamkhuni
+لاغری|lāghari
+کاهش وزن|kāhesh-e wazn
+رشد کم|roshd-e kam
+تب مرغ|tab-e morgh
+گرمازدگی|garmāzadagi
+استرس گرمایی|esteres-e garmāyi
+استرس|esteres
+سرمازدگی|sarmāzadagi
+تنگی نفس|tangi-ye nafas
+زخم پا|zakhm-e pā
+ورم کف پا|waram-e kaf-e pā
+بامبل‌فوت|bāmbelfut|p
+چاقی کبد|chāqi-ye kabed|p
+کبد چرب|kabed-e charb
+افتادگی تخمدان|oftādagi-ye tokhmdān|p
+تخم‌بستگی|tokhmbastagi|n=egg binding
+پرولاپس|prolāps|p
+# poultry_farming/diseases
+مریضی|marizi|n=dup
+مرض|maraz
+امراض|amrāz
+امراض مرغ|amrāz-e morgh
+امراض ساری|amrāz-e sāri|n=infectious diseases
+ساری|sāri
+مریضی ساری|marizi-ye sāri
+اپیدمی|epidemi
+شیوع|shoyu
+نیوکاسل|niyukāsel|p
+مریضی نیوکاسل|marizi-ye niyukāsel|p
+انفلوانزا|enfloenzā|p
+انفلوانزای مرغی|enfloenzā-ye morghi|p
+انفلوانزای پرندگان|enfloenzā-ye parandagān|p
+آنفلوانزای پرندگان|ānfloenzā-ye parandagān|p
+فلوی مرغی|flu-ye morghi|p
+گامبورو|gāmboro|p
+برونشیت|bronshit|p
+برونشیت عفونی|bronshit-e ofuni|p
+ماریک|mārek|p
+مریضی ماریک|marizi-ye mārek|p
+کوکسیدیوز|koksidyōz|p
+کوکسی|koksi|p
+سالمونلا|sālmonēlā|p
+سالمونلوز|sālmonelōz|p
+پلوروم|pulōrom|p
+تیفوئید مرغی|tifoyed-e morghi|p
+وبای مرغی|wabā-ye morghi|n=fowl cholera
+کلرای مرغی|kolerā-ye morghi|p
+کولی‌باسیلوز|kolibāsilōz|p
+ای‌کولای|i kolāy|p
+مایکوپلاسما|māykoplāsmā|p
+مایکوپلاسموز|māykoplāsmōz|p
+کوریزا|korizā|p
+آبله مرغی|ābela-ye morghi|n=fowl pox
+آبله|ābela
+لارنگوتراکئیت|lārengotrākeyit|p
+آی ال تی|āy el ti|p
+آنسفالومیلیت|ānsefālomiyelit|p
+لوکوز|lukōz|p
+ای دی اس|i di es|p|n=EDS
+سندروم افت تخم|sendrom-e oft-e tokhm|p
+آسپرژیلوز|āsperzhilōz|p
+قارچ|qārch|n=fungus; ق = q
+مریضی قارچی|marizi-ye qārchi
+کاندیدیازیس|kāndidiyāzis|p
+بوتولیزم|botulizm|p
+آنتریت نکروتیک|ānterit-e nekrotik|p
+کلستریدیوم|klostridiyom|p
+پاستورلا|pāstorellā|p
+استافیلوکوک|estāfilokok|p
+اسهال خونی مرغ|eshāl-e khuni-ye morgh
+عفونت|ofunat
+عفونی|ofuni
+عفونت تنفسی|ofunat-e tanaffosi
+عفونت روده|ofunat-e rōda
+عفونت زرده|ofunat-e zarda|n=yolk sac infection
+التهاب|eltehāb
+باکتری|bākteri
+باکتریا|bāktēriyā
+ویروسی|wirusi|a=virusi|p
+باکتریایی|bāktēriyāyi
+قارچی|qārchi
+انگل|angal
+انگلی|angali
+پرازیت|parāzit|n=Afghan parasite loanword
+کرم روده|kerm-e rōda
+کرم گرد|kerm-e gerd
+کرم نواری|kerm-e nawāri
+اسکاریس|askāris|p
+شپش|shepesh
+شپش مرغ|shepesh-e morgh
+کنه|kana
+کنه قرمز|kana-ye qermez
+مایت|māyt|p
+کیک|kayk|n=flea; homograph kēk (cake)
+کک|kak
+موش و موشک|mush-o mushak
+حشرات|hasharāt
+مگس سالون|magas-e sālōn
+# poultry_farming/veterinary
+داکتر حیوانات|dāktar-e haywānāt|n=Afghan vet
+داکتر مرغ|dāktar-e morgh
+داکتر وترنر|dāktar-e wetarnar|p
+وترنر|wetarnar|p
+وترنری|wetarnari|p
+کلینیک وترنری|klinik-e wetarnari|p
+دامپزشک|dāmpezeshk
+دامپزشکی|dāmpezeshki
+تکنیشن|teknishan|p
+معاینه مرغ|moāyena-ye morgh
+تشخیص|tashkhis
+تشخیص مریضی|tashkhis-e marizi
+کالبدشکافی|kālbadshekāfi
+پوست‌مارتم|pōstmārtam|p|n=post-mortem
+نمونه|namuna
+نمونه خون|namuna-ye khun
+آزمایش خون|āzmāyesh-e khun
+لابراتوار وترنری|lābrātwār-e wetarnari|p
+نتیجه آزمایش|natija-ye āzmāyesh
+تداوی مرغ|tadāwi-ye morgh
+علاج مرغ|elāj-e morgh
+دوای مرغ|dawā-ye morgh
+دوای حیوانی|dawā-ye haywāni
+دواخانه حیوانی|dawākhāna-ye haywāni
+نسخه وترنری|noskha-ye wetarnari|p
+دوز|dōz
+دوز دوا|dōz-e dawā
+مقدار|meqdār
+مقدار دوا|meqdār-e dawā
+دوره تداوی|dawra-ye tadāwi
+پیچکاری مرغ|pichkāri-ye morgh
+سرنج|serenj
+قطره|qatra
+قطره چشمی|qatra-ye chashmi
+قطره دهنی|qatra-ye dahani
+دوا در آب|dawā dar āb
+دوا در دانه|dawā dar dāna
+پودر دوا|pōdar-e dawā
+محلول|mahlul
+انتی‌بیوتیک|antibāyotik|n=Afghan anti- (not ānti-)
+آنتی‌بیوتیک|antibāyotik
+اکسی‌تتراسایکلین|oksitetrāsāyklin|p
+انروفلوکساسین|enrofloksāsin|p
+تایلوزین|tāylozin|p
+آمپرولیوم|āmproliyom|p
+سولفا|solfā|p
+داکسی‌سایکلین|dāksisāyklin|p
+کولیستین|kolistin|p
+فلورفنیکل|florfenikol|p
+ایورمکتین|ivermektin|a=iwermektin|p
+پیپرازین|pipērāzin|p
+لوامیزول|lewāmizol|p
+البندازول|albendāzol|p
+ضد کرم|zedd-e kerm
+ضد انگل|zedd-e angal
+ضد کوکسی|zedd-e koksi|p
+مسکن|mosakken
+ضد التهاب|zedd-e eltehāb
+الکترولیت|elektrolit
+ویتامین‌دهی|witāmindehi|p
+مقاومت|moqāwamat
+مقاومت انتی‌بیوتیکی|moqāwamat-e antibāyotiki
+دوره منع مصرف|dawra-ye man-e masraf|p|n=withdrawal period
+عوارض جانبی|awārez-e jānebi
+# poultry_farming/vaccination
+واکسین|wāksin|n=dup
+واکسیناسیون|wāksināsyōn
+واکسین کاری|wāksin-kāri
+برنامه واکسین|barnāma-ye wāksin
+جدول واکسین|jadwal-e wāksin
+واکسین زنده|wāksin-e zenda
+واکسین کشته|wāksin-e koshta
+واکسین روغنی|wāksin-e roghani
+واکسین نیوکاسل|wāksin-e niyukāsel|p
+واکسین گامبورو|wāksin-e gāmboro|p
+واکسین ماریک|wāksin-e mārek|p
+واکسین برونشیت|wāksin-e bronshit|p
+واکسین آبله|wāksin-e ābela
+یادآور|yādāwar|n=booster
+دوز یادآور|dōz-e yādāwar
+قطره چشمی واکسین|qatra-ye chashmi-ye wāksin
+واکسین در آب|wāksin dar āb
+واکسین اسپری|wāksin-e esprē|p
+اسپری|esprē
+واکسین تزریقی|wāksin-e tazriqi
+تزریق|tazriq
+زیر پوستی|zēr-e pōsti
+داخل عضلانی|dākhel-e azalāni
+بال‌زنی|bālzani|n=wing-web method
+زنجیره سرد|zanjira-ye sard
+ایمنی|imani
+مصونیت|masuniyat|n=Afghan immunity
+پادتن|pādtan
+انتی‌بادی|antibādi|p
+تیتر|titr|p
+# poultry_farming/biosecurity
+امنیت زیستی|amniyat-e zisti
+بیوسکیوریتی|bāyosekyuriti|p
+ضدعفونی|zedd-e ofuni|c=zed-e ofuni
+مواد ضدعفونی|mawādd-e zedd-e ofuni
+ضدعفونی کردن|zedd-e ofuni kardan
+ضدعفونی سالون|zedd-e ofuni-ye sālōn
+پاک‌کاری سالون|pākkāri-ye sālōn
+شستشو|shostoshu
+شستشوی سالون|shostoshu-ye sālōn
+قرنطین|qarantin|n=Afghan quarantine
+قرنطینه|qarantina
+جداسازی|jodāsāzi
+جدا کردن مرغ مریض|jodā kardan-e morgh-e mariz
+دفن مرغ مرده|dafn-e morgh-e morda
+سوختاندن|sōkhtāndan
+کود|kōd|n=manure/fertilizer
+کود مرغی|kōd-e morghi
+پیخال مرغ|pikhāl-e morgh
+پاک کردن پیخال|pāk kardan-e pikhāl
+آهک|āhak
+آهک‌پاشی|āhakpāshi
+فورمالین|formālin|p
+کلورین آب|klōrin-e āb
+یود|yōd|p
+فومیگیشن|fumigēshan|p
+دود دادن|dud dādan
+لباس کار|lebās-e kār
+بوت رابری|but-e rābari|n=rubber boots
+دستکش|dastkash|n=dup
+ماسک|māsk
+کنترول|kontrōl
+کنترول موش|kontrōl-e mush
+کنترول حشرات|kontrōl-e hasharāt
+مهمان ممنوع|mēhmān mamnu
+ورود ممنوع|worud mamnu
+خالی کردن سالون|khāli kardan-e sālōn
+همه پر همه خالی|hama por hama khāli|p
+دوره استراحت سالون|dawra-ye esterāhat-e sālōn
+# poultry_farming/management_economics
+مدیریت|modiriyat
+مدیریت فارم|modiriyat-e fārm
+مدیر فارم|modir-e fārm
+کارگر فارم|kārgar-e fārm
+نگهبان|negahbān
+چوکیدار|chawkidār|n=Afghan guard
+ثبت|sabt
+ثبت روزانه|sabt-e rōzāna
+راپور|rāpōr|n=Afghan report
+راپور روزانه|rāpōr-e rōzāna
+کارت سالون|kārt-e sālōn
+دفتر فارم|daftar-e fārm
+حساب فارم|hesāb-e fārm
+وزن‌کشی|waznkashi
+وزن مرغ|wazn-e morgh
+وزن بدن|wazn-e badan
+یکنواختی|yaknawākhti
+یکنواختی گله|yaknawākhti-ye gala
+تراکم|tarākom
+تراکم گله|tarākom-e gala
+جای کافی|jāy-e kāfi
+مترمربع|metr-e morabba
+نوک‌چینی|nōkchini|n=beak trimming
+نول‌کوتاهی|nōlkōtāhi|p
+تولک|tōlak|p|n=molt (Iranian tūlak); verify
+تولک‌بری|tōlakbari|p
+پرریزی اجباری|parrēzi-ye ejbāri
+حذف|hazf
+حذف مرغ|hazf-e morgh
+مرغ حذفی|morgh-e hazfi|n=culled hen
+فروش مرغ کهنه|forōsh-e morgh-e kohna
+فروش تخم|forōsh-e tokhm
+قیمت تخم|qimat-e tokhm
+قیمت دانه|qimat-e dāna
+قیمت چوچه|qimat-e chucha
+قیمت فی دانه|qimat-e fi dāna
+فی دانه|fi dāna
+شانه‌ای|shānayi
+مصارف|masāref|n=Afghan expenses
+مصارف فارم|masāref-e fārm
+مصرف|masraf
+هزینه|hazina
+عاید|āyed|n=Afghan income
+عواید|awāyed
+مفاد|mafād|n=Afghan profit
+فایده|fāyda
+ضرر|zarar
+نقصان|noqsān|n=Afghan loss
+سرمایه|sarmāya
+سرمایه‌گذاری|sarmāyagozāri
+قرضه|qarza
+بیمه|bima
+بازاریابی|bāzāryābi
+عمده‌فروش|omdaforōsh
+پرچون‌فروش|parchunforōsh|n=Afghan retail
+پرچون|parchun
+عمده|omda
+تقاضا|taqāzā
+عرضه|arza
+قرارداد فروش|qarārdād-e forōsh
+تولیدکننده|tawlidkonanda
+بازار تخم|bāzār-e tokhm
+وارداتی|wāredāti
+تخم وارداتی|tokhm-e wāredāti
+تخم داخلی|tokhm-e dākheli
+خودکفایی|khodkefāyi
+برق فارم|barq-e fārm
+مصرف برق|masraf-e barq
+عمر گله|omr-e gala
+پایان دوره|pāyān-e dawra
+# poultry_farming/phrases
+مرغ‌ها تخم نمی‌کنند|morghhā tokhm namēkonand|c=morghā tokhm namēkonan
+تولید کم شده|tawlid kam shoda|c=tawlid kam shoda
+مرغ‌ها مریض شده‌اند|morghhā mariz shodaand|c=morghā mariz shodan
+امروز چند تخم جمع شد|emrōz chand tokhm jam shod
+دانه را عوض کردیم|dāna-rā awaz kardēm|c=dāna ra awaz kardēm
+آب مرغ‌ها را بده|āb-e morghhā-rā bedeh|c=āb-e morghā ra beti|p
+واکسین را فراموش نکن|wāksin-rā farāmōsh nakon|c=wāksin ra farāmōsh nakon
+داکتر را بخواه|dāktar-rā bekhāh|c=dāktar ra bekhāy|p
+سالون را ضدعفونی کن|sālōn-rā zedd-e ofuni kon|c=sālōn ra zed-e ofuni kon
+مرغ مریض را جدا کن|morgh-e mariz-rā jodā kon|c=morghe mariz ra jodā kon
+چند مرغ مرده|chand morgh morda
+تلفات زیاد است|talafāt ziyād ast|c=talafāt ziyād as
+تخم‌ها را شانه کن|tokhmhā-rā shāna kon|c=tokhmā ra shāna kon|p
+یک شانه تخم|yak shāna tokhm
+یک کارتن تخم|yak kārtan tokhm
+قیمت تخم بالا رفته|qimat-e tokhm bālā rafta
+قیمت دانه گران شده|qimat-e dāna gerān shoda

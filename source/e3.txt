@@ -1,0 +1,518 @@
+# education/general
+مکتب|maktab|n=Afghan school
+مدرسه|madrasa
+پوهنتون|pōhantun|n=Afghan university
+پوهنځی|pōhanzay|p|n=Pashto-derived faculty; ځ = z
+دانشگاه|dāneshgāh
+دانشکده|dāneshkada
+لیسه|lēsa|n=Afghan high school
+کودکستان|kōdakestān
+صنف|senf|n=Afghan classroom/grade
+شاگرد|shāgerd
+محصل|mohassel|n=Afghan university student
+دانشجو|dāneshju
+معلم|moallem
+استاد|ostād
+مدیر|modir
+سرمعلم|sarmoallem
+درس|dars
+درس خواندن|dars khāndan|n=خوا read khā
+کتاب|ketāb|a=kitāb|p
+کتابچه|ketābcha|n=Afghan notebook
+قلم|qalam
+پنسل|pensel
+رنگ|rang
+پاک‌کن|pākkon
+خط‌کش|khatkash
+تخته|takhta
+تباشیر|tabāshir
+کاغذ سفید|kāghaz-e safēd
+امتحان|emtehān
+آزمون|āzmun
+کانکور|kānkōr|n=Afghan entrance exam
+نمره|nomra
+سند|sanad
+دیپلوم|diplōm
+لیسانس|lisāns
+ماستری|māstari
+دوکتورا|doktorā
+مضمون|mazmun|n=subject
+ریاضی|riyāzi
+فزیک|fezik
+کیمیا|kimiyā
+بیولوژی|biyolozhi
+تاریخ|tārikh|n=dup key: history/date
+جغرافیه|joghrāfiya
+ادبیات|adabiyāt
+زبان|zabān
+دری|dari
+پشتو|pashtu
+انگلیسی|engelisi
+عربی|arabi
+الفبا|alefbā
+حرف|harf
+کلمه|kalema
+جمله|jomla
+سوال|sawāl
+جواب|jawāb
+درست|dorost
+غلط|ghalat
+یاد گرفتن|yād gereftan
+یاد دادن|yād dādan
+تدریس|tadris
+تعلیم|talim
+تحصیل|tahsil
+معارف|maāref|n=Afghan education ministry term
+کتابخانه|ketābkhāna
+لابراتوار|lābrātwār
+رخصتی زمستانی|rokhsati-ye zemestāni
+تقسیم اوقات|taqsim-e awqāt
+حاضری|hāzeri|n=Afghan attendance
+غیرحاضر|ghayrhāzer
+# work/professions
+کار|kār
+کارگر|kārgar
+کارمند|kārmand
+مامور|māmur|n=Afghan official
+وظیفه|wazifa|n=Afghan job/duty
+شغل|shoghl
+معاش|maāsh|n=Afghan salary
+مزد|mozd
+دفتر|daftar
+اداره|edāra
+شرکت|sherkat
+کمپنی|kampani
+تجارت|tejārat
+تاجر|tājer
+دوکان|dokān|n=Afghan shop
+دوکاندار|dokāndār
+بقال|baqqāl
+قصاب|qassāb
+نانوا|nānwā
+نانوایی|nānwāyi
+دهقان|dehqān|n=Afghan farmer
+زارع|zāre
+مالدار|māldār|n=livestock owner
+چوپان|chōpān
+داکتر|dāktar|n=Afghan doctor (not doktor)
+نرس|nars
+دندان‌ساز|dandānsāz
+دواساز|dawāsāz
+انجنیر|enjinēr|n=Afghan engineer
+معمار|meamār
+مستری|mestari|n=Afghan builder/mechanic
+نجار|najjār
+آهنگر|āhangar
+برقی|barqi|n=electrician
+نلدوان|naldawān|p|n=plumber
+رنگمال|rangmāl
+خیاط|khayyāt
+سلمانی|salmāni
+موتروان|mōtarwān
+پیلوت|pilōt
+پولیس|polis
+عسکر|askar
+افسر|afsar
+وکیل|wakil
+قاضی|qāzi
+خبرنگار|khabarnegār
+ژورنالیست|zhurnālist
+نویسنده|nawisanda
+شاعر|shāer
+هنرمند|honarmand
+آوازخوان|āwāzkhān
+مولوی|mawlawi
+ملا|mullā
+امام|emām
+منشی|monshi
+محاسب|mohāseb
+حسابدار|hesābdār
+مترجم|motarjem
+مشاور|moshāwer
+رئیس|rais
+معاون|moāwen
+کارفرما|kārfarmā
+بیکار|bēkār
+بیکاری|bēkāri
+تقاعد|taqāod|n=Afghan retirement
+استخدام|estekhdām
+درخواست|darkhāst
+قرارداد|qarārdād
+ساعت کاری|sāat-e kāri
+اضافه کاری|ezāfa-kāri
+مرخصی|morakhasi
+جلسه|jalasa
+مجلس|majles
+پروژه|prōzha|a=projē|p
+# health/body
+بدن|badan
+جان|jān|n=dup: body/dear
+سر|sar
+مو|mō|a=mōy;mu|p
+روی|rōy|n=face
+صورت|surat
+چشم|chashm
+گوش|gōsh
+بینی|bini
+دهن|dahan|n=Afghan mouth (not dahān)
+لب|lab
+دندان|dandān
+زبان|zabān|n=dup: tongue/language
+گلو|galu
+گردن|gardan
+شانه|shāna|n=dup: shoulder/comb
+دست|dast
+بازو|bāzu
+آرنج|āranj
+انگشت|angosht
+ناخن|nākhon
+سینه|sina
+شکم|shekam
+کمر|kamar
+پشت|posht
+پا|pā
+پای|pāy
+زانو|zānu
+قلب|qalb
+دل|del
+جگر|jegar
+گرده|gorda
+معده|mēda|p
+روده|rōda
+شش|shosh|n=lung; homograph shash (six)
+خون|khun
+استخوان|ostokhān
+پوست|pōst
+مغز|maghz
+عصب|asab
+# health/medical
+صحت|sehat
+صحی|sehhi
+مریض|mariz
+مریضی|marizi
+بیماری|bimāri
+شفاخانه|shafākhāna|n=Afghan hospital
+کلینیک|klinik
+دواخانه|dawākhāna|n=Afghan pharmacy
+دوا|dawā|n=Afghan medicine
+دارو|dāru
+تابلیت|tāblēt|n=Afghan tablet
+کپسول|kapsul
+شربت|sharbat
+پیچکاری|pichkāri|n=Afghan injection
+سیروم|sērum|p
+نسخه|noskha
+معاینه|moāyena
+آزمایش|āzmāyesh
+لابراتوار صحی|lābrātwār-e sehhi
+اکسری|eksrē|n=X-ray
+اپریشن|aprēshan|n=Afghan surgery
+جراحی|jarrāhi
+عملیات|amaliyāt
+تب|tab
+سرفه|sorfa
+زکام|zokām
+ریزش|rēzesh|n=Afghan cold/flu
+سردردی|sardardi
+دلبدی|delbadi|n=nausea
+استفراغ|estefrāgh
+اسهال|eshāl
+قبضیت|qabziyat
+درد|dard
+دندان‌درد|dandāndard
+شکم‌درد|shekamdard
+کمردردی|kamardardi
+زخم|zakhm
+خون‌ریزی|khunrēzi
+شکستگی|shekastagi
+سوختگی|sōkhtagi
+فشار خون|feshār-e khun
+شکر خون|shakar-e khun|n=Afghan diabetes colloquial
+شکر|shakar|n=dup: sugar/diabetes
+سرطان|saratān|n=dup: cancer/month
+توبرکلوز|tuberkolōz|p
+ملاریا|malāriyā
+کرونا|korōnā
+ویروس|wirus|a=virus|p
+میکروب|mikrob
+واکسین|wāksin|n=Afghan vaccine
+واکسین کردن|wāksin kardan
+حساسیت|hassāsiyat
+ضعیف|zaif
+ضعف|zaf
+خستگی|khastagi
+خواب|khāw|n=Kabuli khāw
+بیخوابی|bēkhāwi
+صحتمند|sehatmand
+تداوی|tadāwi|n=Afghan treatment
+علاج|elāj
+جور شدن|jōr shodan|n=Afghan recover
+آمبولانس|āmbolāns
+عاجل|ājel
+عاجل است|ājel ast|c=ājel as
+# shopping_money/general
+بازار|bāzār
+مندوی|mandawi|n=Kabul wholesale market
+سودا|sawdā|n=Afghan groceries/shopping
+خرید|kharid
+فروش|forōsh
+پول|pul|n=long u
+پیسه|paysa|n=Afghan money colloquial
+افغانی|afghāni|c=awghāni|n=currency; Kabuli awghāni
+دالر|dālar
+کلدار|kaldār|n=Pakistani rupee (Afghan usage)
+تومان|tomān
+قیمت|qimat
+قیمت است|qimat ast|c=qimat as|n=means 'expensive'
+ارزان|arzān
+گران|gerān
+چند است|chand ast|c=chand as
+چند افغانی|chand afghāni|c=chand awghāni
+تخفیف|takhfif
+حساب|hesāb
+بل|bel|n=Afghan bill
+رسید|rasid
+باقی|bāqi
+بقایا|baqāyā
+قرض|qarz
+پس‌انداز|pasandāz
+بانک|bānk
+حساب بانکی|hesāb-e bānki
+کارت بانکی|kārt-e bānki
+صراف|sarrāf
+صرافی|sarrāfi
+حواله|hawāla
+پول نقد|pul-e naqd
+سکه|sekka
+نوت|nōt|n=banknote
+مشتری|moshtari
+فروشنده|forōshanda
+دلال|dallāl
+کیلو|kilō
+گرام|grām
+سیر|sēr|n=dup: Afghan weight unit
+پاو|pāw|n=Afghan weight unit
+خروار|kharwār
+متر|metr
+لیتر|litr
+دانه|dāna
+جوره|jōra|n=pair
+بسته|basta
+کارتن|kārtan
+وزن|wazn
+ترازو|tarāzu
+تجارتی|tejārati
+مالیات|māliyāt
+گمرکی|gomroki
+# weather_nature/weather
+هوا|hawā
+آب و هوا|āb-o hawā
+گرمی|garmi
+سردی|sardi
+باران|bārān
+برف|barf
+ژاله|zhāla
+باد|bād
+طوفان|tufān
+ابر|abr
+ابری|abri
+آفتاب|āftāw|a=āftāb|n=Kabuli āftāw
+آفتابی|āftāwi
+مهتاب|mahtāw|a=mahtāb
+یخ|yakh
+یخبندان|yakhbandān
+خشکسالی|khoshksāli
+سیلاب|sēlāb|n=Afghan flood
+لغزش|laghzesh
+زلزله|zelzela
+رعد|rad
+برق آسمان|barq-e āsmān
+رنگین‌کمان|ranginkamān
+درجه حرارت|daraja-ye harārat
+گرد و خاک|gard-o khāk
+باران می‌بارد|bārān mēbārad|c=bārān mēbāra
+برف می‌بارد|barf mēbārad|c=barf mēbāra
+هوا سرد است|hawā sard ast|c=hawā sard as
+هوا گرم است|hawā garm ast|c=hawā garm as
+# weather_nature/nature
+طبیعت|tabiat
+آسمان|āsmān
+زمین|zamin|n=dup
+آفتاب|āftāw|n=dup
+ماه|māh|n=dup: moon/month
+ستاره|setāra
+کوه|kōh
+کوتل|kōtal|n=Afghan mountain pass
+دره|darra
+دشت|dasht
+بیابان|biyābān
+جنگل|jangal
+دریا|daryā|n=Afghan river
+دریاچه|daryācha
+بحر|bahr
+جوی|juy|n=Afghan stream/ditch
+کاریز|kārēz|n=Afghan underground canal
+چشمه|chashma
+آبشار|ābshār
+سنگ|sang
+خاک|khāk
+گل|gel|n=mud; homograph gol (flower)
+ریگ|rēg
+درخت|darakht
+شاخه|shākha
+برگ|barg
+ریشه|rēsha
+گیاه|giyāh
+علف|alaf
+سبزه|sabza
+گندم‌زار|gandomzār
+مزرعه|mazrea
+زمین زراعتی|zamin-e zerāati
+زراعت|zerāat
+آبیاری|ābyāri
+حیوان|haywān
+حیوانات|haywānāt
+پرنده|paranda
+سگ|sag
+پشک|peshak|n=Afghan cat
+گاو|gāw|n=Afghan gāw (not gāv)
+گوساله|gōsāla
+گوسفند|gōspand
+بز|boz
+اسپ|asp|n=Afghan horse
+خر|khar
+شتر|shotor
+موش|mush
+مار|mār
+گرگ|gorg
+شیر|shēr|n=dup: lion
+روباه|rōbā
+خرگوش|khargōsh
+کبوتر|kawtar|n=Kabuli kawtar
+گنجشک|gonjeshk
+باز|bāz|n=dup: falcon/again
+عقاب|oqāb
+زنبور|zanbur
+مگس|magas
+پشه|pashsha
+مورچه|mōrcha
+کرم|kerm|n=dup: worm
+ماهی|māhi|n=dup
+# technology/communication
+تیلفون|tēlefōn|n=Afghan telephone
+موبایل|mobāyl
+گوشی|gōshi
+تماس|tamās
+زنگ|zang
+زنگ بزن|zang bezan
+پیام|payām
+مسج|mesej|n=Afghan SMS
+انترنت|enternet
+وای‌فای|wāyfāy
+ایمیل|imēl
+ویب‌سایت|websāyt
+کمپیوتر|kampyutar|n=dup
+لپتاپ|laptāp
+صفحه|safha
+کیبورد|kibōrd
+ماوس|māws
+پرنتر|printar
+چارجر|chārjar
+بطری|batri|n=Afghan battery
+کریدت|kredit|n=Afghan phone credit
+کارت تیلفون|kārt-e tēlefōn
+سیم کارت|sim kārt
+شبکه|shabaka
+فیسبوک|fēsbuk
+واتساپ|wātsāp
+یوتیوب|yutyub
+ویدیو|wideyō|a=vidiyō|p
+عکس|aks
+کمره|kamra|n=Afghan camera
+پاسورد|pāswōrd
+اپلیکیشن|aplikēshan
+برنامه|barnāma
+دانلود|dānlōd
+آپلود|aplōd
+پست|post
+اخبار|akhbār
+روزنامه|rōznāma
+مجله|majalla
+تلویزیون|telwizyōn|n=dup
+رسانه|rasāna
+هلو|halō|n=phone greeting
+# government/public_services
+دولت|dawlat
+حکومت|hokumat
+وزارت|wezārat
+وزیر|wazir
+ریاست|reyāsat
+رئیس جمهور|rais-e jomhur
+ولایت|welāyat|n=Afghan province
+والی|wāli
+ولسوالی|woleswāli|n=Afghan district
+ولسوال|woleswāl
+شاروالی|shārwāli|n=Afghan municipality
+شاروال|shārwāl
+ناحیه|nāhiya
+قریه|qarya|n=Afghan village
+ده|deh|n=village; homograph da (ten)
+مرکز|markaz
+پایتخت|pāytakht
+کابل|kābol|n=Kabuli kābol
+هرات|herāt
+مزار شریف|mazār-e sharif
+کندهار|kandahār
+بلخ|balkh
+بدخشان|badakhshān
+بامیان|bāmiyān
+ننگرهار|nangarhār
+پنجشیر|panjshir
+غزنی|ghazni
+قندوز|qondoz
+افغانستان|afghānestān|c=awghānestān
+افغان|afghān|c=awghān
+مردم افغانستان|mardom-e afghānestān
+تذکره|tazkera|n=Afghan national ID
+تذکره الکترونیکی|tazkera-ye elektroniki
+پاسپورت|pāsport|n=dup
+قانون|qānun
+محکمه|mahkama|n=Afghan court
+پولیس|polis|n=dup
+امنیت|amniyat
+امنیتی|amniyati
+سارنوال|sāranwāl|n=Afghan prosecutor
+جرم|jorm
+جریمه|jarima
+مالیه|māliya
+عریضه|ariza|n=Afghan petition
+درخواستی|darkhāsti
+فورم|fōrm
+امضا|emzā
+مهر|mohr
+اسناد|asnād
+اسناد رسمی|asnād-e rasmi
+رسمی|rasmi
+غیررسمی|ghayr-e rasmi
+انتخابات|entekhābāt
+رای|ray|p
+پارلمان|pārlemān
+شورا|shurā
+جرگه|jerga
+لویه جرگه|loya jerga
+ملت|mellat
+ملی|melli
+بین‌المللی|baynolmelali
+سفارت|sefārat
+قونسلگری|qonsolgari
+سرحد|sarhad|n=dup
+مهاجر|mohājer
+عودت|awdat
+کمک|komak
+کمک‌ها|komakhā
+موسسه|moassesa|n=Afghan NGO
+ان‌جی‌او|enjiō
+برق کابل|barq-e kābol
+آب‌رسانی|ābrasāni
+پست‌خانه|postkhāna
+مخابرات|mokhāberāt

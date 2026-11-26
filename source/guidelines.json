@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "language": "prs",
+    "language_name": "Afghan Dari",
+    "accent": "General Afghan Dari",
+    "reference_variety": "Kabul Dari",
+    "purpose": "TTS pronunciation lexicon (word-level pronunciation overrides)",
+    "version": "1.0.0",
+    "created": "2026-11-26",
+    "script": "Perso-Arabic (Dari orthography, ZWNJ U+200C used in prefixes such as می‌)",
+    "verification_summary": "All entries are model-generated drafts. NONE has been verified by a native Afghan Dari speaker. Every entry carries verification_status='unverified' until a reviewer confirms it. Do not treat any pronunciation in this file as authoritative before review.",
+    "lookup_key_normalization": "Normalize Arabic kaf/yeh (ك ي ى) to Dari (ک ی), apply Unicode NFC, then match with and without ZWNJ and spaces."
+  },
+  "pronunciation_guidelines": {
+    "romanization_system": "Afghan Dari pronunciation in Latin characters (AD-Latin v1)",
+    "design_principles": [
+      "Write what a Kabul Dari speaker says, not the letters on the page.",
+      "One symbol = one sound everywhere in the file.",
+      "Afghan Dari keeps the 'majhul' vowels ē and ō, which Iranian Persian merged into i and u. They must never be written as i or u.",
+      "Only lowercase a-z, the macron vowels ā ē ō, apostrophe (glottal stop), hyphen (ezafe/clitic boundary) and space are used."
+    ],
+    "vowels": [
+      {
+        "symbol": "a",
+        "ipa_hint": "a ~ æ",
+        "dari": "zabar (ـَ), word-final ه / ـه",
+        "example": "khāna (خانه), bacha (بچه)",
+        "note": "Final silent-h vowel is 'a' in Afghan Dari, never Iranian 'e' (khāna, not khāne)."
+      },
+      {
+        "symbol": "ā",
+        "ipa_hint": "ɒː (rounded back)",
+        "dari": "ا / آ",
+        "example": "āb (آب), kābol (کابل)"
+      },
+      {
+        "symbol": "e",
+        "ipa_hint": "ɪ ~ e (short)",
+        "dari": "zēr (ـِ)",
+        "example": "del (دل), ketāb (کتاب), sefr (صفر)"
+      },
+      {
+        "symbol": "o",
+        "ipa_hint": "ʊ ~ o (short)",
+        "dari": "pēsh (ـُ)",
+        "example": "mēkonom (می‌کنم), dokhtar (دختر)",
+        "note": "Short u-vowel is written o, as in the requested examples raftom, mēkonom."
+      },
+      {
+        "symbol": "i",
+        "ipa_hint": "iː",
+        "dari": "yā-ye ma'ruf (ی)",
+        "example": "shir (شیر 'milk'), mēkoni (می‌کنی)"
+      },
+      {
+        "symbol": "u",
+        "ipa_hint": "uː",
+        "dari": "wāw-e ma'ruf (و)",
+        "example": "pul (پول), dur (دور)"
+      },
+      {
+        "symbol": "ē",
+        "ipa_hint": "eː",
+        "dari": "yā-ye majhul (ی)",
+        "example": "shēr (شیر 'lion'), mēz (میز), mē- (می‌)",
+        "note": "Distinctive Afghan vowel; Iranian Persian says i."
+      },
+      {
+        "symbol": "ō",
+        "ipa_hint": "oː",
+        "dari": "wāw-e majhul (و)",
+        "example": "rōz (روز), dōst (دوست), kōh (کوه)",
+        "note": "Distinctive Afghan vowel; Iranian Persian says u."
+      },
+      {
+        "symbol": "aw",
+        "ipa_hint": "aw",
+        "dari": "ـَو",
+        "example": "naw (نو), nawrōz (نوروز), shaw (شب, Kabuli)",
+        "note": "Iranian 'ow/o' (now, nowruz) is wrong for Afghan Dari."
+      },
+      {
+        "symbol": "ay",
+        "ipa_hint": "aj",
+        "dari": "ـَی",
+        "example": "khayr (خیر), paysa (پیسه)"
+      }
+    ],
+    "consonants": [
+      {
+        "symbol": "w",
+        "dari": "و (consonant)",
+        "example": "waqt (وقت), gāw (گاو), wazir (وزیر)",
+        "note": "Afghan Dari uses bilabial/labial-velar w; Iranian v is an error. Some loanwords (vitāmin) vary and are listed as alternatives."
+      },
+      {
+        "symbol": "q",
+        "dari": "ق",
+        "example": "qalam (قلم), qimat (قیمت)",
+        "note": "Voiceless uvular stop. Kept distinct from gh. Do NOT merge with غ as Tehrani Persian does."
+      },
+      {
+        "symbol": "gh",
+        "dari": "غ",
+        "example": "morgh (مرغ), bāgh (باغ)",
+        "note": "Voiced uvular fricative."
+      },
+      {
+        "symbol": "kh",
+        "dari": "خ",
+        "example": "khāna (خانه)"
+      },
+      {
+        "symbol": "sh",
+        "dari": "ش",
+        "example": "shaw (شب)"
+      },
+      {
+        "symbol": "ch",
+        "dari": "چ",
+        "example": "chāy (چای)"
+      },
+      {
+        "symbol": "zh",
+        "dari": "ژ",
+        "example": "zhāla (ژاله)"
+      },
+      {
+        "symbol": "j",
+        "dari": "ج",
+        "example": "jān (جان)"
+      },
+      {
+        "symbol": "y",
+        "dari": "ی (consonant)",
+        "example": "yak (یک)"
+      },
+      {
+        "symbol": "h",
+        "dari": "ه / ح",
+        "example": "hafta (هفته)",
+        "note": "Word-final h after a vowel is often silent (kolā کلاه, siyā سیاه)."
+      },
+      {
+        "symbol": "s",
+        "dari": "س ص ث",
+        "example": "sāl, sabr, sānya"
+      },
+      {
+        "symbol": "z",
+        "dari": "ز ذ ض ظ",
+        "example": "zamin, zakhira, zarar, zāher"
+      },
+      {
+        "symbol": "t",
+        "dari": "ت ط",
+        "example": "tāza, tayyāra"
+      },
+      {
+        "symbol": "'",
+        "dari": "ع / ء (when audible)",
+        "example": "sā'at (ساعت), jom'a (جمعه)",
+        "note": "Glottal stop/hiatus in careful speech; usually dropped in colloquial forms (sāat, joma)."
+      },
+      {
+        "symbol": "b p d g k f l m n r",
+        "dari": "ب پ د گ ک ف ل م ن ر",
+        "note": "As in English; r is a tap/trill."
+      },
+      {
+        "symbol": "v",
+        "dari": "و (only in some international loanwords)",
+        "example": "ivermektin, vitāmin (alternative)",
+        "note": "Used only where the international form is commonly heard; the Afghan w form is listed as an alternative or primary where usual."
+      }
+    ],
+    "rules": [
+      "R1 Majhul vowels: یای مجهول = ē, واو مجهول = ō (shēr 'lion', rōz, dōst, sēb, mēwa). Never collapse to i/u.",
+      "R2 Final silent ه (hā-ye ghayr-malfuz) = a: khāna, hafta, bacha, tāza.",
+      "R3 و as a consonant = w (waqt, gāw, keshwar). The connective و between words is -o- (bist-o yak, āb-o hawā).",
+      "R4 ق = q and غ = gh are distinct phonemes in Afghan Dari.",
+      "R5 خوا is pronounced khā (khāhar, khāndan, khāstan); the و is silent.",
+      "R6 Ezafe is written '-e' after consonants and '-ye' after vowels (morgh-e tokhmi, khāna-ye kalān). In fast speech it may weaken; colloquial forms show this.",
+      "R7 Present tense prefix می‌ = mē- (stressed). Negative نمی‌ = namē- (stress on na-).",
+      "R8 Present endings (standard spoken): -om, -i, -at (3sg, final d devoiced, alt -ad), -ēm, -ēd, -and. Colloquial Kabuli: -om, -i, -a, -ēm, -ēn, -an.",
+      "R9 Past endings: -om, -i, ∅, -ēm, -ēd (colloq -ēn), -and (colloq -an). The 1pl/2pl endings use majhul ē (raftēm), not Iranian -im/-id.",
+      "R10 Colloquial Kabuli contracts several present stems: رو raw -> r (mērom), گوی gōy -> g (mēgom), شو shaw -> sh (mēshom), آی āy -> y (mēyom), ده deh -> t (mētom), خواه khāh -> khāy (mēkhāyom), آور āwar -> yār (mēyārom), توان tawān -> tān (mētānom), نشین neshin -> shin (mēshinom), فهم fahm -> fām (mēfāmom). These are in colloquial_pronunciation and are high-priority for review.",
+      "R11 Copula: است = ast (colloq as / enclitic -a), هستم = hastom (colloq astom), نیست = nēst (colloq nis).",
+      "R12 Kabuli words with special pronunciation: شب = shaw, آفتاب = āftāw, خواب = khāw, مهتاب = mahtāw, کبوتر = kawtar.",
+      "R13 Stress: nouns and adjectives are generally stressed on the final syllable; verbal prefixes mē-, na-, be-/bo- attract stress; personal endings and the copula are unstressed.",
+      "R14 Imperative/subjunctive prefix بـ harmonizes with the stem vowel: bo- before o/u stems (boro, bokon, bokhor), be- elsewhere (begir, bebin), bi- before y (biyā).",
+      "R15 Numbers: ده = da, نه = noh, پنجصد = pansad, هفده = hafda, چهار = chār.",
+      "R16 Spaces in pronunciation separate words as spoken; hyphens join ezafe and clitics to their host and must not be read as pauses."
+    ],
+    "pronunciation_fields": {
+      "pronunciation": "Primary standard spoken Afghan Dari form (what an educated Kabul speaker says when reading the written word aloud). Default TTS override.",
+      "colloquial_pronunciation": "Everyday conversational Kabuli form, if different. Use for conversational/informal TTS style. null when identical.",
+      "alternative_pronunciations": "Other forms that are genuinely used (formal variants, loanword variants, homograph readings). Not ranked.",
+      "regional_variations": "List of {variety, pronunciation, verification_status} for Herati, Hazaragi, Panjshiri, Badakhshi, etc.",
+      "homograph": "true when the same spelling has more than one reading (e.g. شیر shir/shēr, مرد mard/mord). The TTS engine needs context (POS tagger or rules) to choose.",
+      "verb_info": "For verb forms: infinitive, tense, person, polarity."
+    }
+  },
+  "tts_integration": {
+    "overview": "Use this file as a word/phrase-level pronunciation override layer in front of the TTS engine's default grapheme-to-phoneme (G2P) model.",
+    "pipeline": [
+      "1. Text normalization: convert digits, dates and abbreviations to Dari words; normalize ك/ي to ک/ی; NFC.",
+      "2. Tokenize; attempt longest-match lookup first (multi-word phrase entries such as 'خدا حافظ' or 'تخم مرغ'), then single words. Match keys with ZWNJ/space removed as a fallback.",
+      "3. If an entry is found: choose pronunciation by style -> style='standard' uses 'pronunciation'; style='conversational' uses 'colloquial_pronunciation' if not null, else 'pronunciation'. If a reviewed_pronunciation exists in 'review', it takes precedence over both.",
+      "4. If 'homograph' is true, choose between 'pronunciation' and 'alternative_pronunciations' using POS/context; fall back to 'pronunciation'.",
+      "5. Convert the AD-Latin string to the engine's phoneme set with the mapping table below (longest symbol first: kh, gh, sh, ch, zh, aw, ay before single letters).",
+      "6. If no entry is found: run the engine's G2P, but apply the Afghan rules R1-R10 (final ه -> a, و -> w, q≠gh, mē- prefix, majhul vowels where known) instead of Iranian Persian defaults.",
+      "7. Optionally filter by verification_status (e.g. only use 'verified' entries in production, use 'unverified' for internal testing)."
+    ],
+    "symbol_to_ipa_mapping": {
+      "a": "a",
+      "ā": "ɒː",
+      "e": "ɪ",
+      "o": "ʊ",
+      "i": "iː",
+      "u": "uː",
+      "ē": "eː",
+      "ō": "oː",
+      "aw": "aw",
+      "ay": "aj",
+      "kh": "χ",
+      "gh": "ʁ",
+      "q": "q",
+      "sh": "ʃ",
+      "ch": "tʃ",
+      "zh": "ʒ",
+      "j": "dʒ",
+      "w": "w",
+      "y": "j",
+      "'": "ʔ",
+      "b": "b",
+      "p": "p",
+      "t": "t",
+      "d": "d",
+      "k": "k",
+      "g": "ɡ",
+      "f": "f",
+      "s": "s",
+      "z": "z",
+      "h": "h",
+      "l": "l",
+      "m": "m",
+      "n": "n",
+      "r": "r"
+    },
+    "mapping_note": "The IPA column is only an engineering hint for building a phoneme map; it is not a verified phonetic transcription.",
+    "example_ssml": "<phoneme alphabet=\"x-ad-latin\" ph=\"mēkonom\">می‌کنم</phoneme>",
+    "example_lookup_code": "entry = lexicon.get(key(token)); ph = (entry['review']['reviewed_pronunciation'] or (style=='conversational' and entry['colloquial_pronunciation']) or entry['pronunciation']) if entry else afghan_g2p(token)",
+    "limitations": [
+      "A lexicon fixes word pronunciation only. A natural Afghan Dari voice also needs native Kabul Dari speech recordings and acoustic-model training or adaptation; a voice trained on Iranian Persian audio will keep an Iranian accent even with correct phoneme input.",
+      "Prosody, sentence intonation and connected-speech effects across words (ezafe weakening, copula cliticization, vowel elision) are only partly represented.",
+      "Generated verb forms follow stem rules; irregular colloquial forms need native review."
+    ]
+  },
+  "review_workflow": {
+    "goal": "Every entry must be checked by at least one native Afghan Dari speaker, preferably a Kabul speaker; poultry/veterinary terms additionally by an Afghan poultry farmer or veterinarian.",
+    "verification_status_values": {
+      "unverified": "Model-generated draft, not reviewed.",
+      "in_review": "Assigned to a reviewer.",
+      "verified": "Confirmed by at least one native reviewer (reviewer_id and review_date required).",
+      "verified_multiple": "Confirmed by two or more independent native reviewers.",
+      "corrected": "Reviewer changed the pronunciation; reviewed_pronunciation holds the correct form.",
+      "disputed": "Reviewers disagree; see reviewer_notes.",
+      "rejected": "Entry should be removed or rewritten."
+    },
+    "review_fields": {
+      "reviewed_pronunciation": "Reviewer's correct primary pronunciation in AD-Latin (null if the draft is correct).",
+      "reviewer_alternative_pronunciations": "Additional genuine pronunciations heard by the reviewer.",
+      "reviewer_regional_variety": "Reviewer's own variety, e.g. 'Kabul', 'Herat', 'Mazar', 'Hazaragi', 'Panjshir'.",
+      "reviewer_notes": "Free text.",
+      "reviewer_id": "Pseudonymous reviewer code.",
+      "review_date": "ISO date.",
+      "audio_reference": "Path/URL to a recording of the reviewer saying the word (recommended: 16-bit 22.05/44.1 kHz WAV, file name = entry id, e.g. common_0001.wav).",
+      "decision": "approve | correct | dispute | reject"
+    },
+    "procedure": [
+      "1. Sort by review_priority='high' first (contracted verb forms, loanwords, homographs, technical poultry terms).",
+      "2. Reviewer listens to/says the word naturally and compares with 'pronunciation' and 'colloquial_pronunciation'.",
+      "3. Fill the 'review' object; set verification_status accordingly. Never edit 'pronunciation' directly - keep the draft for audit; the TTS engine prefers reviewed_pronunciation.",
+      "4. Record audio and set audio_reference whenever possible.",
+      "5. After review, bump metadata.version and recompute metadata counts."
+    ]
+  }
+}

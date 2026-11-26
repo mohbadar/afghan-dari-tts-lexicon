@@ -1,0 +1,384 @@
+# food/general
+نان|nān
+غذا|ghezā
+خوراک|khorāk
+نان خشک|nān-e khoshk
+نان تنوری|nān-e tanuri|c=nāne tanuri
+نان خانگی|nān-e khānagi
+تنور|tanur
+آب|āb
+چای|chāy
+چای سبز|chāy-e sabz|c=chāye sabz
+چای سیاه|chāy-e siyāh|c=chāye siyā
+قهوه|qahwa|n=Afghan qahwa (not ghahve)
+شیر|shir|n=homograph: shēr (lion)
+ماست|māst
+دوغ|dōgh
+قروت|qorut|n=Afghan dried yogurt
+کشک|kashk
+پنیر|panir
+مسکه|maska|n=Afghan butter
+روغن|roghan
+روغن زرد|roghan-e zard
+قیماق|qaymāq
+تخم|tokhm
+تخم مرغ|tokhm-e morgh|c=tokhme morgh
+تخم جوش|tokhm-e jōsh|p
+تخم بریان|tokhm-e beryān|p
+گوشت|gōsht
+گوشت گاو|gōsht-e gāw
+گوشت گوسفند|gōsht-e gōspand
+گوشت مرغ|gōsht-e morgh
+ماهی|māhi
+برنج|berenj
+پلو|palaw|n=Afghan palaw (not polo)
+قابلی پلو|qābeli palaw|c=qābli palaw
+چلو|chalaw
+شوربا|shōrwā|n=Afghan soup
+آش|āsh
+آشک|āshak
+منتو|mantu
+بولانی|bōlāni
+کباب|kabāb
+سیخ کباب|sikh kabāb
+چپلی کباب|chapli kabāb
+کوفته|kōfta
+قورمه|qōrma
+قورمه سبزی|qōrma-ye sabzi
+سبزی|sabzi
+سلاد|salād|a=salāta
+سلاته|salāta
+ترشی|torshi
+چتنی|chatni
+مربا|morabbā
+عسل|asal
+شکر|shakar
+بوره|bura|n=Afghan sugar (powdered)
+نمک|namak
+مرچ|morch
+مرچ سرخ|morch-e sorkh
+مرچ سیاه|morch-e siyāh
+زردچوبه|zardchōba
+زیره|zira
+دارچین|dārchin
+هیل|hēl
+گشنیز|gashniz
+پودینه|pudina
+شیرینی|shirini
+کلچه|kolcha
+جلیبی|jalēbi
+فرنی|ferni
+شیر برنج|shir berenj
+حلوا|halwā
+کیک|kēk
+بسکیت|biskit
+چاکلیت|chāklēt
+نقل|noql
+میوه|mēwa|n=majhul ē
+سیب|sēb
+انگور|angur
+انار|anār
+خربوزه|kharbuza
+تربوز|tarbuz|n=Afghan watermelon
+کیله|kēla|n=Afghan banana
+مالته|mālta|n=Afghan orange
+نارنج|nāranj
+لیمو|limu
+زردآلو|zardālu
+شفتالو|shaftālu
+آلو|ālu
+آلوبالو|ālubālu
+گیلاس|gilās|n=homograph: glass/cherry
+توت|tut
+انجیر|anjir
+ناک|nāk|n=Afghan pear
+بهی|behi
+خرما|khormā
+کشمش|keshmesh
+بادام|bādām
+چارمغز|chārmaghz|n=Afghan walnut
+پسته|pesta
+جلغوزه|jalghōza
+نخود|nakhōd
+لوبیا|lōbiyā
+عدس|adas
+ماش|māsh
+کچالو|kachālu|n=Afghan potato
+پیاز|piyāz
+سیر|sir|n=homograph: sēr (full)
+بادنجان|bādenjān
+بادنجان رومی|bādenjān-e rumi|n=Afghan tomato
+رومی|rumi
+بامیه|bāmiya
+کدو|kadu
+زردک|zardak|n=Afghan carrot
+شلغم|shalgham
+ترب|torob
+کرم|karam|n=cabbage; homograph kerm (worm)
+گلپی|golpi|n=Afghan cauliflower
+پالک|pālak|n=Afghan spinach
+بادرنگ|bādrang|n=Afghan cucumber
+مرچ شیرین|morch-e shirin
+سمارق|samāroq|n=mushroom
+جواری|jawāri|n=Afghan corn
+گندم|gandom
+آرد|ārd
+جو|jaw
+خمیر|khamir
+مزه|maza
+مزه‌دار|mazadār
+شور|shōr
+شیرین|shirin
+ترش|torsh
+تلخ|talkh
+تند|tond
+بی‌مزه|bēmaza
+گرم|garm
+سرد|sard
+پخته|pokhta
+خام|khām
+تازه|tāza
+بیات|bayāt
+خوشمزه|khoshmaza
+گرسنه|gorosna|c=goshna
+تشنه|teshna
+سیر|sēr|n=duplicate key with garlic sir
+# food/cooking
+آشپز|āshpaz
+آشپزی|āshpazi
+آشپزخانه|āshpazkhāna
+پختن|pokhtan
+جوش|jōsh
+جوشاندن|jōshāndan
+سرخ کردن|sorkh kardan
+بریان|beryān
+دم کردن|dam kardan
+دیگ|dēg
+دیگچه|dēgcha
+تابه|tāba|a=tāwa|p
+کفگیر|kafgir
+ملاقه|malāqa|p
+قاشق|qāshoq|n=ق uvular q
+پنجه|panja|n=Afghan fork
+کارد|kārd
+چاقو|chāqu
+بشقاب|boshqāb
+پیاله|piyāla
+گیلاس آب|gilās-e āb
+چاینک|chāynak
+ترموز|tarmōz
+کاسه|kāsa
+پتنوس|patnus
+دسترخوان|dastarkhān|n=Afghan; و silent
+سماوار|samāwār
+اجاق|ojāq
+گاز|gāz
+بالون گاز|bālōn-e gāz|p
+یخچال|yakhchāl
+فریزر|frizar
+رستورانت|restōrānt
+هوتل|hōtal|n=Afghan restaurant/hotel
+مینو|minu
+صورت حساب|surat-hesāb
+# household/rooms
+خانه|khāna|n=final ه = a (not e)
+منزل|manzel
+اتاق|otāq
+اتاق خواب|otāq-e khāw|n=Kabuli khāw
+اتاق نشیمن|otāq-e neshiman
+مهمانخانه|mēhmānkhāna
+تشناب|tashnāb|n=Afghan bathroom
+کمود|komōd|n=Afghan toilet
+حمام|hammām
+دهلیز|dahliz
+زینه|zina|n=Afghan stairs
+بام|bām
+حویلی|hawli|n=Afghan courtyard
+باغ|bāgh
+باغچه|bāghcha
+دروازه|darwāza
+در|dar
+کلکین|kelkin|n=Afghan window
+دیوار|dēwār
+سقف|saqf
+فرش|farsh
+زمین|zamin
+تهکاوی|tahkāwi|p
+گدام|godām|n=Afghan storeroom
+آپارتمان|āpārtmān
+کرایه|kerāya
+کرایه‌نشین|kerāyaneshin
+صاحب خانه|sāheb-khāna
+کوچه|kōcha
+سرک|sarak|n=Afghan street
+# household/objects
+میز|mēz
+چوکی|chawki|n=Afghan chair
+الماری|almāri
+تخت|takht
+بستر|bestar
+توشک|toshak
+بالشت|bālesht
+کمپل|kampal
+لحاف|lehāf
+پرده|parda
+قالین|qālin
+گلیم|gilim
+چراغ|cherāgh
+گروپ|grōp|n=Afghan light bulb
+برق|barq
+سویچ|swich
+پریز|periz|p
+لین برق|layn-e barq|p
+پکه|pakka|n=Afghan fan
+بخاری|bokhāri
+صندلی|sandali|n=Afghan heater-table
+آیینه|āyina
+شانه|shāna
+صابون|sābun
+شامپو|shāmpu
+دستمال|dastmāl
+تولیه|tawliya|n=towel
+مسواک|meswāk
+کریم دندان|krim-e dandān|p
+کلید|kelid
+قفل|qolf
+ساعت دیواری|sāat-e dēwāri
+تلویزیون|telwizyōn
+رادیو|rādyō
+کمپیوتر|kampyutar
+ماشین لباسشویی|māshin-e lebāsshōyi
+جارو|jāru
+سطل|satl
+بالتی|bālti|n=Afghan bucket
+کیسه|kisa
+خریطه|kharita|n=Afghan bag/sack
+بکس|baks|n=Afghan bag
+صندوق|sanduq
+قوطی|qōti
+بوتل|bōtal|n=Afghan bottle
+گلدان|goldān
+گل|gol
+شمع|sham
+گوگرد|gōgerd
+لایتر|lāytar
+تیل|tēl|n=Afghan oil/fuel
+تیل خاک|tēl-e khāk
+چوب|chōb
+ذغال|zoghāl
+هیزم|hēzom
+کاغذ|kāghaz
+قیچی|qaychi
+سوزن|suzan
+تار|tār
+جاکت|jākat
+میخ|mēkh
+چکش|chakosh
+پیچکش|pēchkash
+بیل|bēl
+کلنگ|kolang
+# clothing/general
+لباس|lebās
+کالا|kālā|n=Afghan clothes
+پیراهن|pērāhan|c=pēran|n=Kabuli pēran
+تنبان|tombān|n=Afghan trousers
+پیراهن تنبان|pērān-tombān
+واسکت|wāskat
+چپن|chapan
+پتو|patu|n=Afghan shawl
+لنگی|longi|n=turban
+دستار|dastār
+کلاه|kolā|n=final h silent
+پکول|pakōl
+قره‌قل|qaraqol
+چادر|chādar
+چادری|chādari
+روسری|rusari
+دستمال سر|dastmāl-e sar
+کرتی|korti|n=Afghan jacket
+کوت|kōt|n=coat
+پطلون|patlun|n=Afghan trousers (western)
+نکتایی|naktāyi
+بوت|but|n=Afghan shoes
+چپلک|chaplak|n=Afghan sandal
+چپلی|chapli
+جراب|jorāb
+دستکش|dastkash
+کمربند|kamarband
+پیش‌بند|pēshband
+جیب|jēb
+دکمه|dokma
+زیپ|zip
+آستین|āstin
+یخن|yakhan|n=Afghan collar
+انگشتر|angoshtar
+گوشواره|gōshwāra
+گردنبند|gardanband
+ساعت دستی|sāat-e dasti
+عینک|aynak
+خیاط|khayyāt
+دوخت|dōkht
+پارچه|pārcha
+تکه|teka|n=Afghan cloth
+پشمی|pashmi
+نخی|nakhi
+ابریشم|abrēsham
+# transportation/vehicles
+موتر|mōtar|a=motor;motar|n=Afghan car; user example motor
+موترها|mōtarhā
+موتر سایکل|mōtarsāykel
+بایسکل|bāysekel
+بس|bas|n=homograph: bas (enough)
+ملی بس|melli bas
+تکسی|teksi
+فلنکوچ|falankōch|p
+لاری|lāri
+تراکتور|trāktor
+ریکشا|rikshā
+کراچی|karāchi|n=Afghan handcart
+طیاره|tayyāra|n=Afghan airplane
+هواپیما|hawāpaymā
+هلیکوپتر|helikoptar
+قطار|qatār
+کشتی|kashti
+میدان هوایی|maydān-e hawāyi|n=Afghan airport
+ایستگاه|istgāh
+راه|rāh
+سرک عمومی|sarak-e omumi
+پل|pol
+چهارراهی|chārrāhi
+اشاره ترافیک|eshāra-ye trāfik
+ترافیک|trāfik
+پولیس ترافیک|polis-e trāfik
+راننده|rānanda
+دریور|drēwar|n=Afghan driver
+مسافر|mosāfer
+مسافرت|mosāferat
+سفر|safar
+تکت|tekat|n=Afghan ticket
+کرایه موتر|kerāya-ye mōtar
+پترول|petrōl
+دیزل|dizal
+تیل‌تانک|tēltānk
+تایر|tāyr
+پنچر|panchar
+ورکشاپ|warkshāp
+پارکینگ|pārking
+لایسنس|lāysans|n=Afghan driving licence
+جواز سیر|jawāz-e sayr
+پاسپورت|pāsport
+ویزه|wiza
+سرحد|sarhad
+بندر|bandar
+گمرک|gomrok
+راست|rāst|n=dup key; also 'right'
+چپ|chap
+پیش رو|pēsh-e rō
+عقب|aqab
+نزدیک|nazdik
+دور|dur
+بالا|bālā
+پایین|pāyin|c=pāyān|p
+داخل|dākhel
+بیرون|birun
+سرعت|sor'at|c=sorat

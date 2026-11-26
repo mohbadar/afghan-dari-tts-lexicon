@@ -1,0 +1,453 @@
+# greetings_expressions/greetings
+سلام|salām
+السلام علیکم|assalāmu alaykum|c=salāmālaykom|n=connected speech
+وعلیکم السلام|wa alaykum assalām|c=wālaykom salām
+صبح بخیر|sob bakhayr|a=sobh bakhayr
+شب بخیر|shaw bakhayr|a=shab bakhayr|n=Kabuli shaw for شب
+روز بخیر|rōz bakhayr
+خوش آمدید|khosh āmadēd|c=khosh āmadēn
+خوش آمدی|khosh āmadi
+خدا حافظ|khodā hāfez
+به امان خدا|ba amān-e khodā|c=ba amāne khodā
+خداحافظی|khodāhāfezi
+جور هستی|jōr hasti|c=jōr asti|n=Afghan 'are you well'
+جور هستید|jōr hastēd|c=jōr astēn
+خوب هستی|khub hasti|c=khub asti
+چطور هستی|chetōr hasti|c=chetōr asti
+چطور هستید|chetōr hastēd|c=chetōr astēn
+چه حال داری|che hāl dāri|c=chi hāl dāri
+صحت تان خوب است|sehat-etān khub ast|c=sehatetān khub as
+خانه آبادان|khāna ābādān|n=Afghan thank-you formula
+مانده نباشید|mānda nabāshēd|c=mānda nabāshēn
+مانده نباشی|mānda nabāshi
+زنده باشید|zenda bāshēd|c=zenda bāshēn
+زنده باشی|zenda bāshi
+سلامت باشید|salāmat bāshēd|c=salāmat bāshēn
+تشکر|tashakkor|a=tashakor
+تشکر زیاد|tashakkor-e ziyād|c=tashakkor ziyād
+بسیار تشکر|besyār tashakkor
+لطفاً|lotfan
+لطف کنید|lotf konēd|c=lotf konēn
+ببخشید|bebakhshēd|c=bebakhshēn
+ببخش|bebakhsh
+معذرت می‌خواهم|mazerat mēkhāhom|c=mazerat mēkhāyom
+پروا ندارد|parwā nadārad|c=parwā nadāra|n=Afghan 'never mind'
+خیر است|khayr ast|c=khayr as
+مشکل نیست|moshkel nēst|c=moshkel nis
+بلی|bale|a=balē
+بله|bale
+نه|na|n=homograph: also نه noh (nine)
+نخیر|nakhayr
+خیر|khayr
+درست است|dorost ast|c=dorost as
+صحیح است|sahih ast|c=sahi as
+خوب|khub
+بسیار خوب|besyār khub
+عالی|āli
+مبارک|mobārak
+مبارک باشد|mobārak bāshad|c=mobārak bāsha
+تبریک|tabrik
+تبریک می‌گویم|tabrik mēgōyom|c=tabrik mēgom
+عید مبارک|id mobārak
+عید شما مبارک|id-e shomā mobārak|c=id-e shomā mobārak
+نوروز مبارک|nawrōz mobārak
+تولدت مبارک|tawalodet mobārak
+قربانت شوم|qorbānet shawom|c=qorbānet shom
+صدقه‌ات شوم|sadqa-yat shawom|c=sadqat shom
+جان|jān
+جانم|jānom
+بفرمایید|befarmāyēd|c=befarmāyēn
+بفرما|befarmā
+بیا|biyā
+بیایید|biyāyēd|c=biyāyēn
+بنشینید|beneshinēd|c=beshinēn
+خوش باش|khosh bāsh
+خوشحال شدم|khoshhāl shodom
+از دیدن تان خوشحال شدم|az didan-etān khoshhāl shodom|c=az didanetān khoshhāl shodom
+به سلامت|ba salāmat
+سفر بخیر|safar bakhayr
+خدا نگهدار|khodā negahdār
+در امان خدا|dar amān-e khodā
+# greetings_expressions/religious_formulas
+انشاءالله|enshāallāh|a=inshāllāh
+ماشاءالله|māshāallāh|a=māshāllāh
+الحمدلله|alhamdolellāh|c=alhamdulellā
+بسم الله|besmellāh|c=besmellā
+سبحان الله|sobhānallāh
+استغفرالله|astaghferollāh
+الله اکبر|allāho akbar
+خدا را شکر|khodā-rā shokr|c=khodā ra shokr
+شکر خدا|shokr-e khodā
+خدا خیر بدهد|khodā khayr badehad|c=khodā khayr beta|p
+خدا رحمت کند|khodā rahmat konad|c=khodā rahmat kona
+خدا مهربان است|khodā mehrabān ast|c=khodā mehrabān as
+والله|wallāh|c=wallā
+به خدا|ba khodā
+آمین|āmin
+# greetings_expressions/conversational
+چی|chi|a=che|n=Kabuli chi
+چه|che|c=chi
+چرا|cherā|c=chirā
+کی|ki|n=who; also kay (when) in some reading
+کجا|kojā
+کدام|kodām
+چند|chand
+چقدر|cheqadar|c=chiqa
+چطور|chetōr
+چه وقت|che waqt|c=chi waqt
+چه گپ است|che gap ast|c=chi gap as|n=Afghan 'what's up'
+گپ|gap|n=Afghan 'talk/word'
+گپ بزن|gap bezan
+گپ زدن|gap zadan
+راست می‌گویی|rāst mēgōyi|c=rāst mēgi
+دروغ|dorōgh
+راست|rāst
+هیچ|hēch
+هیچ گپ نیست|hēch gap nēst|c=hēch gap nis
+نمی‌دانم|namēdānom|c=namēfāmom
+می‌دانم|mēdānom|c=mēfāmom
+فهمیدم|fahmidom|c=fāmidom
+نفهمیدم|nafahmidom|c=nafāmidom
+باز|bāz
+دوباره|dobāra
+یکبار دیگر|yakbār-e dēgar|c=yakbār dēga
+آهسته|āhesta
+آهسته‌تر|āhestatar
+تیز|tēz
+زود|zud
+زود باش|zud bāsh
+صبر کن|sabr kon
+صبر کنید|sabr konēd|c=sabr konēn
+یک دقیقه|yak daqiqa
+اینجا|injā
+آنجا|ānjā|c=unjā
+همینجا|haminjā
+همانجا|hamānjā|c=hamunjā
+بیا اینجا|biyā injā
+برو|boro
+بس است|bas ast|c=bas as
+بس|bas
+کافی است|kāfi ast|c=kāfi as
+بسیار|besyār
+زیاد|ziyād
+کم|kam
+کمی|kami
+اندکی|andaki
+یک کمی|yak kami
+همه|hama
+همه چیز|hama chiz
+هیچ چیز|hēch chiz
+چیز|chiz
+کس|kas
+هیچ کس|hēch kas
+هر کس|har kas
+هر روز|har rōz
+هر وقت|har waqt
+شاید|shāyad
+حتماً|hatman
+البته|albatta
+یقیناً|yaqinan
+واقعاً|wāqean
+مثلاً|masalan
+فقط|faqat
+تنها|tanhā
+باز هم|bāz ham
+هنوز|hanōz
+دیگر|dēgar|c=dēga|n=Kabuli majhul ē
+حالا|hālā|c=ālē|r=Hazaragi: ālī (unverified)
+همین حالا|hamin hālā
+خیر ببینی|khayr bebini|n=Afghan blessing/thanks
+نوش جان|nōsh-e jān|c=nōshe jān
+بخیر|bakhayr
+خبر|khabar
+چه خبر|che khabar|c=chi khabar
+خیریت است|khayriyat ast|c=khayriyat as
+تشویش نکن|tashwish nakon|n=Afghan 'don't worry'
+تشویش|tashwish
+پریشان|parēshān
+آرام|ārām
+آرام باش|ārām bāsh
+مهربانی|mehrabāni
+مهربانی کنید|mehrabāni konēd|c=mehrabāni konēn
+اجازه است|ejāza ast|c=ejāza as
+اجازه|ejāza
+بفرمایید داخل|befarmāyēd dākhel|c=befarmāyēn dākhel
+خوش گذشت|khosh gozasht
+مزه داد|maza dād
+خسته شدم|khasta shodom
+گرسنه هستم|gorosna hastom|c=goshna astom|p
+تشنه هستم|teshna hastom|c=teshna astom
+مریض هستم|mariz hastom|c=mariz astom
+نامت چیست|nāmet chist|c=nāmet chis
+نام من|nām-e man
+نامم|nāmom
+از کجا هستی|az kojā hasti|c=az kojā asti
+من افغان هستم|man afghān hastom|c=man awghān astom
+اسم|esm
+# family/members
+پدر|padar
+مادر|mādar
+پدرکلان|padar-kalān|n=Afghan grandfather
+مادرکلان|mādar-kalān|n=Afghan grandmother
+برادر|barādar|c=berādar|p
+خواهر|khāhar|a=khwāhar|n=خوا read khā
+بچه|bacha|n=boy/child (Afghan)
+بچه‌ها|bachahā|c=bachaa
+دختر|dokhtar
+پسر|pesar
+فرزند|farzand
+اولاد|awlād
+کاکا|kākā|n=paternal uncle
+ماما|māmā|n=maternal uncle (Afghan)
+عمه|amma
+خاله|khāla
+کاکازاده|kākāzāda
+ماماخیل|māmākhēl
+خاله‌زاده|khālazāda
+عمه‌زاده|ammazāda
+نواسه|nawāsa|n=Afghan grandchild
+کواسه|kawāsa|p
+شوهر|shawhar|a=shōhar
+زن|zan
+خانم|khānom
+همسر|hamsar
+خسر|khosor
+خشو|khoshu
+ایور|ēwar|p
+یزنه|yazna
+عروس|arōs
+داماد|dāmād
+نامزد|nāmzad
+خانواده|khānawāda
+فامیل|fāmil
+قوم|qawm
+خویش|khēsh
+خویشاوند|khēshāwand
+دوست|dōst
+رفیق|rafiq
+همسایه|hamsāya
+مهمان|mēhmān
+میزبان|mēzbān
+لالا|lālā|n=Kabuli elder brother
+بابه|bāba
+آغا|āghā
+بی‌بی|bibi
+ننه|nana
+کودک|kōdak
+طفل|tefl
+نوزاد|nawzād
+جوان|jawān
+پیر|pir
+پیرمرد|pirmard
+پیرزن|pirzan
+مرد|mard|n=homograph: مرد mord (died)
+زنان|zanān
+مردان|mardān
+مردم|mardom
+آدم|ādam
+انسان|ensān
+یتیم|yatim
+بیوه|bēwa
+مجرد|mojarrad
+متاهل|motaahhel
+عروسی|arōsi
+نکاح|nekāh
+شیرینی‌خوری|shirinikhōri|n=Afghan engagement
+طلاق|talāq
+تولد|tawallod
+# numbers/cardinal
+صفر|sefr
+یک|yak
+دو|du
+سه|se
+چهار|chār|n=written چهار spoken chār
+پنج|panj
+شش|shash
+هفت|haft
+هشت|hasht
+نُه|noh
+ده|da|a=dah
+یازده|yāzda
+دوازده|dwāzda
+سیزده|sēzda
+چهارده|chārda
+پانزده|pānzda
+شانزده|shānzda
+هفده|hafda|a=havda
+هژده|hazhda|a=haizhda
+نزده|nozda
+بیست|bist
+بیست و یک|bist-o yak
+بیست و پنج|bist-o panj
+سی|si
+چهل|chel
+پنجاه|panjā
+شصت|shast
+هفتاد|haftād
+هشتاد|hashtād
+نود|nawad
+صد|sad
+یکصد|yaksad
+دوصد|dusad
+سه‌صد|sēsad|a=sesad
+چهارصد|chārsad
+پنجصد|pansad|n=Afghan pansad
+ششصد|shashsad
+هفتصد|haftsad
+هشتصد|hashtsad
+نهصد|nohsad
+هزار|hazār
+ده هزار|da hazār
+صد هزار|sad hazār
+لک|lak|n=Afghan 100,000
+میلیون|milyōn
+ملیون|milyōn
+ملیارد|milyārd
+نیم|nim
+نیمه|nima
+ربع|roba
+یک و نیم|yak-o nim
+دو و نیم|du-o nim
+اعداد|adād
+عدد|adad
+شماره|shomāra
+نمبر|nambar|n=Afghan 'number'
+# numbers/ordinal
+اول|awwal
+دوم|dowwom|a=dowom
+سوم|sewwom|a=sewom
+چهارم|chārom
+پنجم|panjom
+ششم|shashom
+هفتم|haftom
+هشتم|hashtom
+نهم|nohom
+دهم|dahom
+آخر|ākher
+آخرین|ākherin
+اولین|awwalin
+یکم|yakom
+دومی|dowwomi
+# time/units
+وقت|waqt|n=و as w (not v)
+زمان|zamān
+ساعت|sā'at|c=sāat
+دقیقه|daqiqa
+ثانیه|sāniya|c=sānya
+روز|rōz
+شب|shaw|a=shab|n=Kabuli shaw
+هفته|hafta
+ماه|māh
+سال|sāl
+قرن|qarn
+عصر|asr
+لحظه|lahza
+امروز|emrōz
+دیروز|dirōz
+پریروز|parērōz
+فردا|fardā
+صبا|sabā|n=Afghan colloquial tomorrow
+پس‌فردا|pasfardā
+بیگاه|bēgā|a=bēgāh|p|n=Afghan yesterday evening/yesterday
+امشب|emshaw|a=emshab
+دیشب|dishaw|a=dishab
+صبح|sob|a=sobh
+صبحانه|sobhāna|c=sobāna
+چاشت|chāsht|n=Afghan midday/lunch
+نان چاشت|nān-e chāsht|c=nāne chāsht
+شام|shām
+نان شب|nān-e shaw|c=nāne shaw
+دیگر|dēgar|n=duplicate key; also 'afternoon'
+شب‌ها|shawhā
+روزها|rōzhā
+نیمه‌شب|nimashaw
+پیشین|pēshin|n=Afghan noon prayer time
+عصرها|asrhā
+امسال|emsāl
+پارسال|pārsāl
+سال آینده|sāl-e āyenda
+ماه گذشته|māh-e gozashta
+هفته آینده|hafta-ye āyenda
+هفته گذشته|hafta-ye gozashta
+همیشه|hamēsha
+گاهی|gāhē
+هرگز|hargez
+اکثراً|aksaran
+معمولاً|mamulan
+اکنون|aknun
+بعد|bad
+بعداً|badan
+قبل|qabl
+قبلاً|qablan
+پیش|pēsh
+پس|pas
+زودتر|zudtar
+دیر|dēr
+دیرتر|dērtar
+به وقت|ba waqt
+وقتی که|waqti ke
+تا|tā
+از|az
+تاریخ|tārikh
+تقویم|taqwim
+جنتری|jantari|n=Afghan calendar
+ساعت چند است|sāat chand ast|c=sāat chand as
+ساعت یک|sāat-e yak|c=sāate yak
+نیم ساعت|nim sāat
+یک ساعت|yak sāat
+# time/days
+شنبه|shamba|n=Afghan shamba (nb)
+یکشنبه|yakshamba
+دوشنبه|dushamba
+سه‌شنبه|seshamba
+چهارشنبه|chārshamba
+پنجشنبه|panjshamba
+جمعه|jom'a|c=joma
+روزهای هفته|rōzhā-ye hafta
+رخصتی|rokhsati|n=Afghan holiday
+تعطیل|tatil
+# time/months_solar_afghan
+حمل|hamal
+ثور|sawr
+جوزا|jawzā
+سرطان|saratān
+اسد|asad
+سنبله|sonbola|a=sombola
+میزان|mizān
+عقرب|aqrab
+قوس|qaws
+جدی|jadi
+دلو|dalw
+حوت|hut
+# time/months_gregorian
+جنوری|janwari
+فبروری|fabrowari|p
+مارچ|mārch
+اپریل|aprēl
+می|may|n=homograph of prefix می
+جون|jun
+جولای|julāy
+اگست|agast
+سپتمبر|septambar
+اکتوبر|aktōbar
+نومبر|nowambar
+دسمبر|desambar
+# time/seasons
+فصل|fasl
+بهار|bahār
+تابستان|tābestān
+خزان|khazān|n=Afghan autumn
+زمستان|zemestān
+موسم|mawsem
+# time/islamic
+رمضان|ramazān
+روزه|rōza
+عید|id
+عید فطر|id-e fetr|c=ide fetr
+عید قربان|id-e qorbān|c=ide qorbān
+نوروز|nawrōz
+محرم|moharram
+شب برات|shab-e barāt|p
+افطار|eftār
+سحری|sahari
+نماز|namāz
