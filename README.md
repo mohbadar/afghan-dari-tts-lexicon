@@ -24,7 +24,6 @@ Word-level pronunciation overrides for a custom Afghan Dari (Kabul reference var
 | Poultry / egg farming / veterinary | 712 |
 | Entries with a separate colloquial Kabuli form | 647 |
 | Homographs (same spelling, multiple readings) | 31 |
-| Verified / unverified | 0 / 3,453 |
 | High review priority | 473 |
 
 ## Romanization (AD-Latin v1)
