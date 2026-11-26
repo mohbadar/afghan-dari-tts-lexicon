@@ -2,8 +2,6 @@
 
 Word-level pronunciation overrides for a custom Afghan Dari (Kabul reference variety) text-to-speech engine, with an Afghan-specific Latin romanization (AD-Latin v1) and a built-in native-speaker review workflow.
 
-> **Status: draft, unverified.** Every pronunciation is model-generated and carries `verification_status: "unverified"`. None has yet been confirmed by a native Afghan Dari speaker. Do not treat any entry as authoritative until it has been reviewed.
-
 ## Contents
 
 | Path | Purpose |
